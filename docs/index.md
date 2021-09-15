@@ -9,7 +9,14 @@
 
 ## Overview
 
-This course introduces students to the building blocks of machine learning and artificial intelligence using real world "Big Data" and applications in political science, sociology or economics. The goal is to introduce to methods and tools required to explore and harness the potential of “Big Data”. Learning such methods and tools requires practice. This course follows a “learn-by-doing” approach and will place emphasis on gaining experience by analyzing real-world data and solving problems using cutting edge yet free open source software. It will allow you to apply your theoretical knowledge and articulate the methods learned in an end to end research project throughout the course. The course is designed for social science students that are not necessarily familiar with quantitative methods or computer programming.
+Does the internet influence voting behaviour? What are the factors influencing vote choice? How can we predict election outcomes? These are just a few of the numerous questions that social scientists are tackling using data science. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.
+
+What you will learn in this course?
+This course introduces students to the building blocks of data science and machine learning with real world data and applications in political science, sociology or economics. The ability to collect and analyze data in a sophisticated manner is now a crucial skill set for the modern job market across industries.
+
+Learning such methods and tools requires practice. This course follows a “learn-by-doing” approach and will place emphasis on gaining experience by analyzing real-world data and solving problems using cutting edge yet free open source software. It will allow you to apply your theoretical knowledge and articulate the methods learned in an end to end research project throughout the course. The course is designed for social science students that are not necessarily familiar with quantitative methods or computer programming.
+
+Learning support will be provided for at least one programming language, such as *C++*, *Julia*, *Python*, or *R*, but the choice of language supported may vary between years, depending on judged benefits to students, whether in terms of pedagogy or resulting skills. This year, the default choice is *Python*.
 
 <center>
 ![](https://www.forimpact.org/wp-content/uploads/2014/01/HowToDrawOwl.jpg "Draw The Owl")
@@ -17,7 +24,7 @@ This course introduces students to the building blocks of machine learning and a
 
 ### Goals
 1. Visualize, summarise, and analyse real-world data using reproducible code based on cutting-edge open source tools for data analysis.
-2. Understand the scientific method, critically evaluate existing information, and leverage such methods in a fully reproducible end to end scientific paper.
+2. Understand the scientific method, critically evaluate existing information, and leverage such methods in a fully reproducible end to end scientific project.
 3. Develop an ethical, theoretical, and methodological understanding of machine learning and artificial intelligence from a social scientist perspective.
 
 
@@ -32,7 +39,7 @@ For any questions relating to this device and in order to submit your request, p
 
 
 ## Structure
-This course has 24 class meetings that span over two semester of 12 classes each. During the class meetings students have the opportunity to accomplish various activities. The activities allow students to incrementally assimilate critical concepts that will lead them to deliver a fully reproducible end to end scientific paper.
+This course has 24 class meetings that span over two semester of 12 classes each. During the class meetings students have the opportunity to accomplish various activities. The activities allow students to incrementally assimilate critical concepts that will lead them to deliver a fully reproducible end to end scientific project.
 
 
 ### Class Meetings
@@ -42,18 +49,17 @@ The demo is lead by a student. A student is expected to do a 15 minutes presenta
 
 The theoretical discussion is lead by the instructor. The instructor will usually walk through real world examples that supplement the demo to illustrate how to leverage data science in the real world. The students are expected to follow along with their computers.
 
-The hack-time is lead by both the students and the instructor. The instructor will provide code and data that illustrate the application of data science to political science, sociology or economics. This part is often followed by a "challenge" where students will need to apply what they have learned to new data.
-
+The hack-time is where we learn and apply new tools and methods together. The instructor will provide code and data that illustrate the application of data science to political science, sociology or economics. This part is often followed by a "challenge" where students will need to apply what they have learned to new data.
 
 ### Grading
 
-The course is evaluated over two semesters through various activities allowing students to incrementally improve data science skills. By the end of the course, students will deliver an end to end empirical research paper that is fully reproducible and that leverages the acquired data science skills.
+The course is evaluated over two semesters through various activities allowing students to incrementally improve data science skills. By the end of the course, students will deliver an end to end empirical research project that is fully reproducible and that leverages the acquired data science skills.
 
 | Activities    | Percentage |
 | -             | :-:        |
 | Participation | 30%        |
 | Challenges    | 30%        |
-| Paper         | 40%        |
+| Project       | 40%        |
 
 
 ## Communication
