@@ -7,6 +7,8 @@
 - [ ] Live Demo Planning
 - [ ] GitHub & Gitter
 
+![This is Fine...](../images/fine.jpg)
+
 ## For next time
 
 - Complete [Onboarding](../resources/onboarding.md) before the next class.
