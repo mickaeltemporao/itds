@@ -35,6 +35,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
+  - admonition
 extra:
   generator: false
   social:
@@ -48,13 +49,14 @@ extra_css:
 
 # Page tree
 nav:
-  - index.md
+  - Home: index.md
+  - syllabus.md
   - Activities:
     - activities/participation.md
     - activities/challenges.md
     - activities/project.md
-  - schedule.md
-  - Modules:
+  - Schedule:
+    - schedule.md
     - First Semester:
       - modules/introduction.md
       # - modules/tools.md
