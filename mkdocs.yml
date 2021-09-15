@@ -48,7 +48,11 @@ extra_css:
 # Page tree
 nav:
   - index.md
-  - Horaire: schedule.md
+  - Activités:
+    - activities/participation.md
+    - activities/assignments-winter.md
+    - activities/report-winter.md
+  - schedule.md
   - Modules:
     - Semestre 1:
       - modules/introduction.md
@@ -65,10 +69,6 @@ nav:
       - modules/hypothesis.md
       - modules/analysis.md
       - modules/communication.md
-  - Activités:
-    - activities/participation.md
-    - activities/assignments-winter.md
-    - activities/report-winter.md
   - Resources:
     - resources/book.md
     - resources/writing.md
