@@ -1,4 +1,7 @@
 # CMT3A-MSS 2020
+
+[![Join the chat at https://gitter.im/ScPoBx/introduction-to-data-science](https://badges.gitter.im/ScPoBx/introduction-to-data-science.svg)](https://gitter.im/ScPoBx/introduction-to-data-science?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repository containing the source code for the course *Introduction to Data Science*
 
 The website can be found at: https://mickaeltemporao.github.io/itds/
