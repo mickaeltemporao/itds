@@ -30,17 +30,17 @@ Your submission will consist of a notebook (.ipynb) that is shared with the inst
 - Uses relevant citations when appropriate to ground the project theoretically.
 - All the sources are properly cited and referenced using the APA citation style.
 - The project is no longer than 2500 words.
-- **The notebooks runs successfully!**
+- **The notebook runs successfully!**
 
 ## Grading
 
 Your project will be graded based on five criteria:
 
-| Criteria           | Description                                                                                              |
-| -                  | -                                                                                                        |
-| Algorithm          | The computational methods applied to the data are appropriate.                                           |
-| Code quality       | The code is of good quality and appropriately documented.                                                |
-| Document structure | The document is well formatted and uses the right tools.                                                 |
-| Expression         | The methods used and the variables selected or created are properly motivated using theory and empirics. |
-| Originality        | The algorithmic implementation is original and uses a good depth of course material.                     |
+| Criteria        | Description                                                                                     |
+| :-:             | -                                                                                               |
+| **Algorithm**   | The computational methods applied to the data are appropriate.                                  |
+| **Code**        | The code is of good quality and appropriately documented.                                       |
+| **Structure**   | The document is well formatted and uses the right tools.                                        |
+| **Expression**  | The methods and variables selected or created are properly motivated using theory and empirics. |
+| **Originality** | The algorithmic implementation is original and uses a good depth of course material.            |
 

@@ -1,6 +1,9 @@
-# Programmation
+# Programming
 
 ### Théorie
+
+TODO: Prep ipynb for progamming module
+
 - Présentation du second semestre
     - Exemple d'article : APSR - [Family Matters: How Immigrant Histories Can Promote Inclusion](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/871DB7A02565D65FB0584FE89D7EF35D/S0003055420001057a.pdf/family-matters-how-immigrant-histories-can-promote-inclusion.pdf)
 - The American National Election Study 2016 (ANES 2016)
@@ -15,9 +18,6 @@
 install.packages("tidyverse")  # Permet d'installer un package
 library(tidyverse)             # Permet de charger un package installé
 ```
-
-- [Inscription DataCamp](https://campus.datacamp.com)
-- Workflow RStudio et GitHub
 
 #### À préparer pour la prochaine séance
 - [Introduction Tidyverse](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)

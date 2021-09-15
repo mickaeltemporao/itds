@@ -64,7 +64,7 @@ The course is evaluated over two semesters through various activities allowing s
 
 ## Communication
 
-This course has a dedicated communication platform :fontawesome-brands-slack: Slack. When you have questions outside course meetings, click the Communication tab and ask your question in a public channel.
+This course has a dedicated communication platform :fontawesome-brands-slack: Slack. When you have questions outside course meetings, click the Communication tab at the top of this page and ask your question in a public channel.
 
 Asking questions publicly and providing answers to your peers' questions allows everyone to learn dynamically. Furthermore, if you have a question on a topic, it is likely that someone else has the same question. Finally, being active on the platform, whether by answering the questions of your peers or by asking questions, is strongly encouraged and will have a positive impact on your participation grade!
 

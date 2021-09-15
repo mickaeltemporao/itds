@@ -1,13 +1,15 @@
 # Introduction
 
-## Ordre du jour
-- Présentations
-- Fonctionnement du cours
-- Définition des groupes
-- Ordre de passage
+## Agenda
+- Introductions
+- What, Why, How of Data Science
+- The Syllabus
+- Live Demo Planning
+- Slack Invitations
 
-## Pour la prochaine fois
-- Identifiez un thème de recherche potentiel en comportement électoral/opinion publique.
-- Lecture:
-    - [Knopf, J. W. (2006). Doing a literature review. *PS: Political Science & Politics,* 39(1), 127-132.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/00B62000B6760AB78E1BD27E32A94C9F/S1049096506060264a.pdf/doing-a-literature-review.pdf?casa_token=szUhrJK1G30AAAAA:yj5nqRIULvP0oFEmACEq9AkAIZPdF8YBt9xWDetabQJwdKzVTZQ3yZvbGszZMNoesDnYgFtim2AA)
-- Finally, make sure you have completed the [Onboarding](onboarding.html) section before the first session.
+## For next time
+- Complete [Onboarding](../resources/onboarding.md) before the next class.
+- Start thinking about factors that might influence voting behaviour in the US.
+    - You can download and take a look at the *List of Release Variables* from the [*"American National Election Study"*](https://electionstudies.org/data-center/2020-time-series-study/)
+- Recommended reading:
+    - [Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science. *Nature human behaviour*, 1(1), 1-9.](https://www.nature.com/articles/s41562-016-0021)
