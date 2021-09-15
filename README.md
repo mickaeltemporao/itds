@@ -1,4 +1,4 @@
-# CMT3A-MSS 2020
+# Introduction to Data Science
 
 [![Join the chat at https://gitter.im/ScPoBx/introduction-to-data-science](https://badges.gitter.im/ScPoBx/introduction-to-data-science.svg)](https://gitter.im/ScPoBx/introduction-to-data-science?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
