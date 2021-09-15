@@ -1,0 +1,3 @@
+# 40% | Research project
+
+Students are required to submit an individual research paper that uses some of the methods and tools introduced in the course. Your project will introduce a motivated forecasting machine learning model of the 2016 United States Presidential election. You will discuss the challenges related to the data you are using, carry out a motivated and valid algorithmic implementation, and assess the strengths and weaknesses of your data and model(s). More details about the project and the deadlines will be made available in the second semester in the [Project page](project.html).
