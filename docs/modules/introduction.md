@@ -5,7 +5,7 @@
 - [ ] The What, Why, How of Data Science
 - [ ] The Syllabus
 - [ ] Live Demo Planning
-- [ ] Slack Invitations
+- [ ] GitHub & Gitter
 
 ## For next time
 

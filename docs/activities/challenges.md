@@ -19,7 +19,7 @@ Each challenge is shared with the students at least 5 days before the next sessi
 4. Once you are ready to submit your work click the "Share" button then on the "Copy link" button.
     - Verify that your link works by opening it in a new browser window.
     - You should see your latest edits inside the this notebook.
-5. Send the instructor a direct message on :fontawesome-brands-slack:
+5. Send a private message to the instructor on **:fontawesome-brands-gitter: Gitter**
     - In your message include the course name (itds), assignment type (eg. chall-1), and the copied link to your notebook.
     - Submission are considered until the start of the next session.
     - Late submissions will not be considered!
