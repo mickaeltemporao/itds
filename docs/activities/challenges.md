@@ -1,18 +1,26 @@
 # 30% | Coding challenges
 
 
-**:fontawesome-solid-chess: Coding Challenges** are small puzzles that are shared by the instructor.
+## **:fontawesome-solid-chess: Coding Challenges**
 
-Learning data science requires you to continuously practice what you learn. There are a lot of new bits of information that you will acquire during every class meeting. The aim of these coding challenges is to provide students with new opportunities to apply what you learn during the weekly meetings in new but similar contexts. There will be some time during the class meetings to start working on these challenges, and to address any question, but most of it will be completed after class.
+Coding challenges are small puzzles that are shared by the instructor. Learning data science requires you to continuously practice what you learn. There are a lot of new bits of information that you will acquire during every class meeting. The aim of these coding challenges is to provide students with new opportunities to apply what you learn during the weekly meetings in new but similar contexts. There will be some time during the class meetings to start working on these challenges, and to address any question, but most of it will be completed after class.
 
-- **:fontawesome-solid-exclamation-triangle: Each of the coding challenges are due before the beginning of the next class meeting.**
+- **:fontawesome-solid-exclamation-triangle: The coding challenges are ALWAYS due before the beginning of the next class meeting.**
 
 ## The Challenge Workflow
-1. The challenge is shared with the students at least 5 days before the next session.
-2. You accept the challenge by clicking the challenge icon :fontawesome-solid-chess: in the [Schedule](../schedule.md) page.
-    - :fontawesome-brands-github: GitHub creates and provides you with a link to your challenge repository and a challenge file.
-3. You can start working on the challenge and making submissions.
-    - You submit your work directly on :fontawesome-brands-github: GitHub.
+Each challenge is shared with the students at least 5 days before the next session.
+
+1. You start by opening the coding challenge by clicking the challenge icon :fontawesome-solid-chess: in [Schedule](../schedule.md) page.
+2. When you are inside the notebook click on **"File" -> "Save a copy in Drive"**
+    - A new notebook is created named "Copy of ...".
+    - :fontawesome-solid-exclamation-triangle: Don't skip this step otherwise you won't be able to save or submit your work!
+3. Rename the notebook called "Copy of ..." appropriately. This is the notebook for your assignment.
+    - You can start working inside the newly generated and renamed notebook
+4. Once you are ready to submit your work click the "Share" button then on the "Copy link" button.
+    - Verify that your link works by opening it in a new browser window.
+    - You should see your latest edits inside the this notebook.
+5. Send the instructor a direct message on :fontawesome-brands-slack:
+    - In your message include the course name (itds), assignment type (eg. chall-1), and the copied link to your notebook.
     - Submission are considered until the start of the next session.
     - Late submissions will not be considered!
 
