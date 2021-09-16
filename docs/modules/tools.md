@@ -2,11 +2,11 @@
 
 ## Agenda
 - Introducing the tools
-    - Communication Platform: :fontawesome-brands-slack: Slack
+    - Communication Platform: :fontawesome-brands-gitter: Gitter
     - Writing: :fontawesome-brands-markdown: Markdown
     - Coding Platform: :fontawesome-brands-google: Colaboratory &
 - Assignments workflow
-- TODO: Coding challenge 1 - ipynb: write 1 par using md on voting behaviour and factors use 2 references and submit in slack.
+- TODO: Coding challenge 1 - ipynb: write 1 par using md on voting behaviour and factors use 2 references and submit in Gitter.
 
 ## For next time
 - First Live Demo
