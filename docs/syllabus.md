@@ -64,7 +64,7 @@ The course is evaluated over two semesters through various activities allowing s
 
 ## Communication
 
-This course uses a dedicated open source communication platform named :fontawesome-brands-gitter: Gitter. When you have questions outside course meetings, click the Chat tab at the top of this page and ask your question in the appropriate channel. The onboarding activity will get you started!
+This course uses a dedicated open source communication platform named :fontawesome-brands-gitter: Gitter. When you have questions outside course meetings, click the **Chat** tab at the top of this page and ask your question in the appropriate channel. The onboarding activity will get you started!
 
 Asking questions publicly and providing answers to your peers' questions allows everyone to learn dynamically. Furthermore, if you have a question on a topic, it is likely that someone else has the same question. Finally, being active on the platform, whether by answering the questions of your peers or by asking questions, is strongly encouraged and will have a positive impact on your participation grade!
 
