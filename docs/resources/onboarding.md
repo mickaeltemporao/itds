@@ -13,7 +13,7 @@ Make sure you have completed the following activities before the second class me
     - This is the main tool we will use to communicate.
 6. Install the [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) app on your :fontawesome-solid-mobile-alt: and/or :fontawesome-solid-laptop:
 
-For now, you can explore these tools by yourself. If these tools don't make sense yet do not worry. We'll cover them [in](in) the upcoming class meetings.
+For now, you can explore these tools by yourself. If these tools don't make sense yet do not worry. We'll cover them in the upcoming class meetings.
 
 Other resources will continue to be added throughout the course length. You should check the resource pages regularly!
 
