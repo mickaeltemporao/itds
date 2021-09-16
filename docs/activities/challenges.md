@@ -10,7 +10,7 @@ Coding challenges are small puzzles that are shared by the instructor. Learning 
 ## The Challenge Workflow
 Each challenge is shared with the students at least 5 days before the next session.
 
-1. You start by opening the coding challenge by clicking the challenge icon :fontawesome-solid-chess: in [Schedule](../schedule.md) page.
+1. You start by opening the coding challenge by clicking the challenge icon :fontawesome-solid-chess: on the [Schedule](../schedule.md) page.
 2. When you are inside the notebook click on **"File" -> "Save a copy in Drive"**
     - A new notebook is created named "Copy of ...".
     - :fontawesome-solid-exclamation-triangle: Don't skip this step otherwise you won't be able to save or submit your work!

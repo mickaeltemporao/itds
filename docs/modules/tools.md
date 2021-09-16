@@ -1,10 +1,13 @@
 # Tools
 
 ## Agenda
+- Go over schedule parts
+- Orange in website are links!
 - Introducing the tools
     - Communication Platform: :fontawesome-brands-gitter: Gitter
     - Writing: :fontawesome-brands-markdown: Markdown
     - Coding Platform: :fontawesome-brands-google: Colaboratory &
+
 - Assignments workflow
 - TODO: Coding challenge 1 - ipynb: write 1 par using md on voting behaviour and factors use 2 references and submit in Gitter.
 

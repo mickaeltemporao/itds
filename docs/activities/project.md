@@ -21,7 +21,7 @@ Your submission will consist of a notebook (.ipynb) that is shared with the inst
 - Uses code chunks that are understandable to the reader.
 - Loads, cleans and prepares the data.
 - Makes summary statistics and appropriate visualizations of the target variable and explanatory variables you select.
-- Build an algorithm using variables from the ANES 2020 dataset.
+- Builds an algorithm using variables from the ANES 2020 dataset.
 - Uses the trained algorithm to make predictions of the target variable.
 - Evaluates and summarises the performance of the algorithm.
     - You will use appropriate tables and visualizations.

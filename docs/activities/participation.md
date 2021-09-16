@@ -1,6 +1,6 @@
 # 30% | Participation
 
-The participation grade is divided into three parts: Live demos, class involvement, and online involvement.
+The participation grade is divided into three parts: Live demos, class engagement, and online engagement.
 
 ## **:fontawesome-solid-chalkboard-teacher: Live demo**
 
@@ -10,11 +10,11 @@ Students are expected to do a live demo that helps the class understand a topic 
 - **The student presenting has to prepare a handout** that he shares with the group before the class meeting.
 - [**:fontawesome-solid-file-code: Handout template**](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb)
 
-## **:fontawesome-solid-comments: Class Involvement**
+## **:fontawesome-solid-comments: Class Engagement**
 
-Students are expected to be active during the class meetings and actively participating and engaging in the ongoing class activities.
+Students are expected to be actively participating, engaged and focused during class activities.
 
-## **:fontawesome-regular-comments: Online Involvement**
+## **:fontawesome-regular-comments: Online Engagement**
 
 Students are also expected to be active on the communication platform, that is by asking questions or by helping their peers when they have questions. For more details see the [Communication](../../#communication) guidelines in the syllabus.
 

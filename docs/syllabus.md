@@ -29,7 +29,10 @@ Learning support will be provided for at least one programming language, such as
 3. Develop an ethical, theoretical, and methodological understanding of machine learning and artificial intelligence from a social scientist perspective.
 
 ### Requirements
-The most important requirement is motivation to work hard on likely unfamiliar material. The second most important requirement is to have access to a computer in order to participate and complete the various activities. From there, we will learn as we go!
+The course is designed for social science students with no previous experience of quantitative methods, statistics or computer programming.
+
+- The most important requirement is motivation to work hard on likely unfamiliar material.
+- The second most important requirement is to have access to a computer in order to participate and complete the various activities. From there, we will learn as we go!
 
 In order to fight against digital inequalities among students, Sciences Po Bordeaux sets up a support system under certain conditions (presentation of a purchase invoice; N-1 tax notice of your reference tax household ; notification of CROUS scholarship; certificate of attendance for the current year).
 
