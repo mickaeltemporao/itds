@@ -8,7 +8,7 @@ Students are expected to do a live demo that helps the class understand a topic 
 
 - The live demo lasts no longer than 15 minutes.
 - **The student presenting has to prepare a handout** that he shares with the group before the class meeting.
-- [**:fontawesome-solid-file-code: Handout template**](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb)
+- [**:fontawesome-solid-file-code: Handout template**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/handout-template.ipynb)
 
 ## **:fontawesome-solid-comments: Class Engagement**
 
