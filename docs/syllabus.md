@@ -3,9 +3,7 @@
 
 ## Overview
 
-!!! note inline end
-
-     **Course**
+!!! note inline end "Course Information"
 
     - :fontawesome-solid-calendar: 16 sep. 2021 to 31 mar. 2022
     - :fontawesome-solid-clock: T 11:30am-1:00pm
