@@ -1,3 +1,15 @@
+
+- Pour vous aider, vous pouvez
+    1. Consultez les derniers articles parus dans les journaux suivants:
+        - [American Journal of Political Science](https://ajps.org/)
+        - [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review)
+        - [Political Behavior](https://www.springer.com/journal/11109)
+        - [Public Opinion Quarterly](https://academic.oup.com/poq)
+    2. Consultez la base de données des articles utilisant l'ANES ou ses questions
+        - [Bibliographie de l'ANES](https://electionstudies.org/papers-documents/anes-bibliography/)
+
+- Recommended Reading:
+    - [Knopf, J. W. (2006). Doing a literature review. *PS: Political Science & Politics,* 39(1), 127-132.](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/00B62000B6760AB78E1BD27E32A94C9F/S1049096506060264a.pdf/doing-a-literature-review.pdf?casa_token=szUhrJK1G30AAAAA:yj5nqRIULvP0oFEmACEq9AkAIZPdF8YBt9xWDetabQJwdKzVTZQ3yZvbGszZMNoesDnYgFtim2AA)
 # Schedule
 
 This schedule is an approximation, subject to change due needs of the students in the course. Students will be informed of changes to the schedule.
