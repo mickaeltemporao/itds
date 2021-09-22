@@ -7,7 +7,7 @@ Coding challenges are small puzzles that are shared by the instructor. Learning 
 
 - **:fontawesome-solid-exclamation-triangle: The coding challenges are ALWAYS due before the beginning of the next class meeting.**
 
-## The Challenge Workflow
+### Workflow
 Each challenge is shared with the students at least 5 days before the next session.
 
 1. You start by opening the coding challenge by clicking the challenge icon :fontawesome-solid-chess: on the [Schedule](../schedule.md) page.
@@ -29,7 +29,7 @@ When you are stuck during a coding challenge, try to solve your bugs (e.g. Googl
 - If you are stuck for too long (>30mins) during a challenge, take a break and revisit try again later.
 - If you are still stuck after revisiting your problem with a fresh mindset ask for help using the communication platform! Don't be shy, it is very likely that other students might be able to help you!
 
-## Grading
+### Grading
 Challenges will be graded based on the best five out of six individual grades.
 Grades follow a 4-category scale:
 
@@ -39,4 +39,7 @@ Grades follow a 4-category scale:
 | ✓    | Completed with good effort                      |
 | ✓-   | Acceptable, but major deficiencies              |
 | ∅    | Unacceptable; did not submit                    |
+
+### Challenges
+
 
