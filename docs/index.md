@@ -13,6 +13,7 @@
      - :fontawesome-regular-calendar-check: [**Sign up for a meeting**](https://calendly.com/mickaeltemporao/ds-one-on-one)
 Can social media influence election outcomes? What are the factors influencing vote choice? Can we predict election outcomes reliably? These are just a few of the numerous questions that political scientists are tackling with data science. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied political scientists and employ many of the same techniques you will learn in this course.
 
+
 ## License
 
 Science should be open, and this course builds up other open licensed material. Unless otherwise noted, all materials for this class are licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
