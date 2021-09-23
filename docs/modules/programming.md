@@ -4,6 +4,9 @@
 
 TODO: Prep ipynb for progamming module
 
+intro pandas : http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+wrangling: https://nbviewer.jupyter.org/github/fonnesbeck/pytenn2014_tutorial/blob/master/Part%201.%20Data%20Wrangling%20with%20Pandas.ipynb
+
 - Présentation du second semestre
     - Exemple d'article : APSR - [Family Matters: How Immigrant Histories Can Promote Inclusion](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/871DB7A02565D65FB0584FE89D7EF35D/S0003055420001057a.pdf/family-matters-how-immigrant-histories-can-promote-inclusion.pdf)
 - The American National Election Study 2016 (ANES 2016)
