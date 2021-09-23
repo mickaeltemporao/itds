@@ -12,17 +12,17 @@
 
 ## What is Gitter?
 - **The place where you ask for help and help others!**
-- Open source instant communication platform.
+- Free and Open source instant communication platform.
 - Secure and decentralised conversation store.
 
 ## What are notebooks?
 - **The place where you write and code in a reproducible way!**
-- A powerful open-source interactive web application that allows you to create and share documents that contain narrative text, live code, visualizations, but also allows you to do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+- A powerful free and open-source interactive web application that allows you to create and share documents that contain narrative text, live code, visualizations, but also allows you to do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 - Initially IPython then Jupyter/Colaboratory.
 
 ## What is Markdown?
 - **The syntax you will use to write!**
-- An lightweight open source markup language for creating formatted text using a plain-text editor.
+- An lightweight free and open source markup language for creating formatted text using a plain-text editor.
 - A syntax to annotate documents.
 
 ## For next time
