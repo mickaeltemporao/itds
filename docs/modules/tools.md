@@ -27,12 +27,11 @@
 
 ## For next time
 - Complete Challenge 1
-- Live Demo
-    - [:fontawesome-solid-file-code: Handout template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb)
-    - [:fontawesome-regular-calendar-check: Book an appointment with the instructor](https://calendly.com/mickaeltemporao/one-on-one)
-    - Don't forget to prepare a handout and share it before the class meeting!
+- :fontawesome-solid-chalkboard-teacher: Live Demo
+    - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
+    - Prepare a handout using the [:fontawesome-solid-file-code: template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb) and share it before the class meeting!
     - Prepare a 10 minutes live demo.
+- Recommended Practice:
+    - [:fontawesome-solid-file-code: Getting Started](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
 - Recommended Reading:
     - [Perkel, J. M. (2018). Why Jupyter is data scientists' computational notebook of choice. *Nature*, 563(7732), 145-147.](https://www.nature.com/articles/d41586-018-07196-1)
-- Recommended Practice:
-    - [Python Basics](https://colab.research.google.com/github/mickaeltemporao/reproducible-research-in-python/blob/master/notebooks/01-python-basics.ipynb)
