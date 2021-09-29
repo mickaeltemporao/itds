@@ -27,11 +27,11 @@
 
 ## For next time
 - Complete Challenge 1
-- First Live Demo
-    - [**:fontawesome-solid-file-code: Handout template**](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb)
-    - Book an appointment with the instructor.
+- Live Demo
+    - [:fontawesome-solid-file-code: Handout template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb)
+    - [:fontawesome-regular-calendar-check: Book an appointment with the instructor](https://calendly.com/mickaeltemporao/one-on-one)
     - Don't forget to prepare a handout and share it before the class meeting!
-    - The live demo lasts no longer than 10 to 15 minutes
+    - Prepare a 10 minutes live demo.
 - Recommended Reading:
     - [Perkel, J. M. (2018). Why Jupyter is data scientists' computational notebook of choice. *Nature*, 563(7732), 145-147.](https://www.nature.com/articles/d41586-018-07196-1)
 - Recommended Practice:
