@@ -1,8 +1,14 @@
-# Programming
+# Getting Started with Programming
 
-### Théorie
-
-TODO: Prep ipynb for progamming module
+## Agenda
+- [ ] Last time...
+- [ ] Schedule Overview
+- [ ] Tools Introduction
+    - [ ] Communicating: **:fontawesome-brands-gitter: Gitter Chat**
+    - [ ] Writing: **:fontawesome-brands-markdown: Markdown Syntax**
+    - [ ] Working: **:fontawesome-brands-google: Colaboratory Platform**
+- [ ] Challenge Workflow
+- [ ] Challenge One
 
 intro pandas : http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 wrangling: https://nbviewer.jupyter.org/github/fonnesbeck/pytenn2014_tutorial/blob/master/Part%201.%20Data%20Wrangling%20with%20Pandas.ipynb
@@ -25,6 +31,7 @@ library(tidyverse)             # Permet de charger un package installé
 #### À préparer pour la prochaine séance
 - [Introduction Tidyverse](https://campus.datacamp.com/courses/introduction-to-the-tidyverse)
 - Identifiez un objet de recherche potentiel pouvant être étudié à partir de l'[*"American National Election Study 2016"*](https://electionstudies.org/wp-content/uploads/2018/12/anes_timeseries_2016_userguidecodebook.pdf).
+
 - Pour vous aider, vous pouvez consultez les derniers articles parus dans les journaux suivants :
     - [American Journal of Political Science](https://ajps.org/)
     - [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review)
