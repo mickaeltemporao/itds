@@ -5,7 +5,7 @@
 - [ ] Science, Code, and Voter Turnout?
     - [ ] Live Demo - Data Types
     - [ ] Getting started with Python
-- [ ] Challenge Discussion
+- [ ] Challenge 1: Dependent and Independent Variables
 
 ## Notebook
 - [:fontawesome-solid-file-code: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
