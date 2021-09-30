@@ -2,13 +2,13 @@
 
 ## Agenda
 - [ ] Last time...
-- [ ] Python first steps
+- [ ] Science, Code, and Voter Turnout?
     - [ ] Live Demo - Data Types
     - [ ] Getting started with Python
 - [ ] Challenge Discussion
 
-## Getting Started with :fontawesome-brands-python:
-- [:fontawesome-solid-file-code: Notebook: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
+## Notebook
+- [:fontawesome-solid-file-code: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
 
 ## For next time
 - Practice the getting started notebook.
