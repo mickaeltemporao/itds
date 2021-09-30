@@ -1,4 +1,4 @@
-# Coding Voter Turnout
+# Science, Code, and Voter Turnout
 
 ## Agenda
 - [ ] Last time...
