@@ -3,11 +3,16 @@
 ## Python
 - [Python Tutorial](https://www.kaggle.com/learn/python): Introduction to the basics of Python.
 - [Python Notes](https://chrisalbon.com/): A curated list of Python notes by Chris Albon.
+-
 
 ## Pandas
 - [Pandas Tutorial](https://www.kaggle.com/learn/pandas): Introduction to the basics of Pandas.
 - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf): A summary of Pandas commands.
 - [Intro to Pandas](https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb): An introduction to Pandas on Colaboratory.
+
+## Shared by Students
+- [Basic Types](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb): A article in *Nature* on the importance of notebooks.
+- [A Python Textbook in French](https://python.sdv.univ-paris-diderot.fr/01_introduction/#19-autres-ressources)
 
 ## Misc
 - [Why Colaboratory/Ipython/Jupyter](https://www.nature.com/articles/d41586-018-07196-1): A article in *Nature* on the importance of notebooks.
