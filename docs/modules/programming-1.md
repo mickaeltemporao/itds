@@ -1,11 +1,9 @@
 # Science, Code, and Voter Turnout
 
 ## Agenda
-- [ ] Last time...
-- [ ] Science, Code, and Voter Turnout?
-    - [ ] Live Demo - Data Types
-    - [ ] Getting started with Python
-- [ ] Challenge 1: Dependent and Independent Variables
+- [ ] Live Demo - Data Types
+- [ ] Getting started with Python
+- [ ] ANES Data Overview
 
 ## Notebook
 - [:fontawesome-solid-file-code: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
