@@ -4,15 +4,13 @@
 - [ ] Challenge 1 Review
 - [ ] Surveys, Poll Aggregators, and Forecasting
 - [ ] Data Types and Structures
-- [ ] Live Demo - Lists
-- [ ] ANES Data Overview
+    - [ ] Live Demo - Lists
 
 ## Notebook
 - [:fontawesome-solid-file-code: Data Types and Structures](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/02-data-types-and-structures.ipynb)
 
 ## Misc
 - [The Economist - Election Forecast](https://projects.economist.com/us-2020-forecast/president)
-- [ANES 2020 Overview](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
 
 ## For next time
 - :fontawesome-solid-laptop-house: Recommended Practice
