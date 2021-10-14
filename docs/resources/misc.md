@@ -31,4 +31,3 @@ All the materials required for this course are free and will shared with the stu
 - [Salganik, M. J. (2019). *Bit by bit: Social research in the digital age.* Princeton University Press.](https://www.bitbybitbook.com/en/1st-ed/preface/)
 - [VanderPlas, J. (2016). *Python data science handbook: Essential tools for working with data.* "O'Reilly Media, Inc.".](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-
