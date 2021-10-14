@@ -12,12 +12,10 @@
 - [Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf): A summary of pandas commands.
 - [Tutorial](https://www.kaggle.com/learn/pandas): Introduction to the basics of pandas.
 
-## Live Demos
-| Student | Topic                                                                                                                                   |
-| :-      | :-:                                                                                                                                     |
-| Lucas   | [Types](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb) |
-| Roxanne | [Lists](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-02-lists.ipynb)            |
-| Cyprien | [Functions](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)   |
+## Demos
+- [Types by Lucas](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
+- [Lists by Roxanne](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-02-lists.ipynb)
+- [Functions by Cyprien](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
 
 ## Misc
 - [Why Colaboratory/Ipython/Jupyter](https://www.nature.com/articles/d41586-018-07196-1): A article in *Nature* on the importance of notebooks.
