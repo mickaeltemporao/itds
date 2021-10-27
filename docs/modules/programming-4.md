@@ -4,8 +4,8 @@
 - [ ] Miscellaneous
 - [ ] Challenge Two Review
 - [ ] Functions, Packages and Data (second take)
-- [ ] Pandas and visualizations
-    - [ ] Live Demo - Intro to visualizations
+- [ ] Pandas and visualisations
+    - [ ] Live Demo - Intro to visualisations
 
 ## Misc
 - Chat questions & notifications
