@@ -18,8 +18,6 @@
 
 ## Types of data
 
-![pipeline](../images/pipeline.jpg)
-
 We have seen that there are different types of data in R (numeric, character, factor, logical, ...). In the real world, we can group data in two broad families:
 
 **Discrete** data can only take a finite number of values.
