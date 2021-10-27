@@ -11,7 +11,7 @@
 
 ## Notebook
 - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
-- [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-exploration-columns.ipynb)
+- [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
 
 ## Misc
 - Student Representative
@@ -20,7 +20,7 @@
 ## For next time
 - :fontawesome-solid-laptop-house: Recommended Practice
     - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
-    - [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-exploration-columns.ipynb)
+    - [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
 - :fontawesome-solid-chalkboard-teacher: Live Demo
     - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
     - Prepare a handout using the [:fontawesome-solid-file-code: template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb) and share it before the class meeting!
