@@ -11,12 +11,14 @@
 
 ## Notebook
 - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
-- [:fontawesome-solid-file-code: Introduction to Data Visualisation](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-functions-and-packages.ipynb)
+- [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-functions-and-packages.ipynb)
 
 ## Misc
 - Student Representative
 
 ## Types of data
+
+![pipeline](../images/pipeline.jpg)
 
 We have seen that there are different types of data in R (numeric, character, factor, logical, ...). In the real world, we can group data in two broad families:
 
