@@ -1,4 +1,4 @@
-# Visualising a Single Variable
+# Data Acquisition & Exploration
 
 ## Agenda
 - [ ] Introduction to Pandas
