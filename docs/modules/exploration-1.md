@@ -1,16 +1,14 @@
 # Introduction to Data Exploration
 
 ## Agenda
-- [ ] Loading Data with Pandas
+- [ ] Last Time
 - [ ] Exploratory Data Analysis
-    - [ ] Selecting and Aggregating Variables
-    - [ ] Visualising Single Variables
+    - [ ] Loading Data with Pandas
+    - [ ] Selecting, Summarising and Visualising Variables
     - [ ] Live Demo - Continuous & Discrete Variables
 - [ ] Miscellaneous
 
-
 ## Notebook
-- [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
 - [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
 
 ## Misc
@@ -19,7 +17,6 @@
 
 ## For next time
 - :fontawesome-solid-laptop-house: Recommended Practice
-    - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
     - [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
 - :fontawesome-solid-chalkboard-teacher: Live Demo
     - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
