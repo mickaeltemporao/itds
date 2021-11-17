@@ -3,9 +3,9 @@
 ## Agenda
 - [ ] Last Time
 - [ ] Exploratory Data Analysis
-    - [ ] Loading Data with Pandas
-    - [ ] Selecting, Summarising and Visualising Variables
-    - [ ] Live Demo - Continuous & Discrete Variables
+    - Loading Data with Pandas
+    - Selecting, Summarising and Visualising Variables
+    - Live Demo - Continuous & Discrete Variables
 - [ ] Miscellaneous
 
 ## Notebook
