@@ -12,15 +12,6 @@
 ## Notebook
 - [:fontawesome-solid-file-code: Exploring Variable Relationships](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/05-data-exploration-rows.ipynb)
 
-|          | Continuous | Discrete |
-| -:       | :-:        | :-:      |
-| Nominal  |            | x        |
-| Ordinal  |            | x        |
-| Interval | x          | x        |
-| Ratio    | x          | x        |
-
-
-
 ## For Next Time
 - :fontawesome-solid-laptop-house: Recommended Practice
     - [:fontawesome-solid-file-code: Exploring Variable Relationships](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/05-data-exploration-rows.ipynb)
