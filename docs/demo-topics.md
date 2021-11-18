@@ -29,7 +29,6 @@ Identify and manipulate dates
 Read files with encoding problems
 Quickly fix typos and inconsistencies
 
-
 Introduction to computational social science
 Basic data analysis and visualization
 Data collection
