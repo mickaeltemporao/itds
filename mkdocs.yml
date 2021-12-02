@@ -66,7 +66,8 @@ nav:
       - modules/exploration-1.md
       - modules/exploration-2.md
       - modules/management-1.md
-      # - modules/management-2.md
+      - modules/management-2.md
+      - modules/management-3.md
       # - modules/causality.md
       # - modules/sampling.md
       # - modules/measurement.md
