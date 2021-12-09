@@ -15,7 +15,7 @@
 - [:fontawesome-solid-file-code: Data Management - Existing Values](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/06-data-management-existing-values.ipynb)
 
 ## For Next Time
-- :fontawesome-solid-chess: Complete Challenge Two
+- :fontawesome-solid-chess: Complete Challenge Three
     - [:fontawesome-solid-file-code: Data Visualisation](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-3.ipynb)
 - :fontawesome-solid-laptop-house: Recommended Practice
     - [:fontawesome-solid-file-code: Data Management - Existing Values](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/06-data-management-existing-values.ipynb)
