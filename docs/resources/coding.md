@@ -13,11 +13,15 @@
 - [Tutorial](https://www.kaggle.com/learn/pandas): Introduction to the basics of pandas.
 
 ## Demos
-- [Types by Lucas](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
-- [Lists by Roxanne](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-02-lists.ipynb)
-- [Functions by Cyprien](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
+- [Data Types by Lucas](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
+- [Working with Lists by Roxanne](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-02-lists.ipynb)
+- [Using Functions by Cyprien](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-01-assignment.ipynb)
 - [Data Visualisation 1 by Carolina](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-04-visualisation.ipynb)
 - [Data Vasualisation 2 by Clara](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-05-viz-types.ipynb)
+- [Comparing Variables by Frank](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-06-comparing-variables.ipynb)
+- [Recoding Variables by Lola](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-07-recoding-variables.ipynb)
+- [Missing Value by Mathis](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-08-missing-values.ipynb)
+- [Grouping & Summarising by Maud](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/students-2021/demo-09-grouping-summarising.ipynb)
 
 ## Misc
 - [Why Colaboratory/Ipython/Jupyter](https://www.nature.com/articles/d41586-018-07196-1): A article in *Nature* on the importance of notebooks.
