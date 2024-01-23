@@ -11,7 +11,7 @@ Make sure you have completed the following activities before the second class me
 5. Join the course chat on [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/ScPoBx/introduction-to-data-science) and say hi!
     - Select your newly created :fontawesome-brands-github: **GitHub** account when prompted to join the chat.
     - This is the main tool we will use to communicate.
-6. Install the [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) app on your :fontawesome-solid-mobile-alt: and/or :fontawesome-solid-laptop:
+6. Install the [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) app on your :octicons-device-mobile-24: and/or :fontawesome-solid-laptop:
 
 For now, you can explore these tools by yourself. If these tools don't make sense yet do not worry. We'll cover them in the upcoming class meetings.
 

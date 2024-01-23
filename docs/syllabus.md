@@ -7,7 +7,7 @@
 
     - :fontawesome-solid-calendar: 16 sep. 2021 to 31 mar. 2022
     - :fontawesome-solid-clock: T 11:30am-1:00pm
-    - :fontawesome-solid-university: ScPoBx, Monnet
+    - :octicons-home-24: ScPoBx, Monnet
 
 What you will learn in this course?
 This course introduces students to the building blocks of data science and machine learning with real world data and applications in political science, sociology or economics.
