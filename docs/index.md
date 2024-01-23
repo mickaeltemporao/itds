@@ -6,7 +6,7 @@
 </figure>
 
 !!! note inline end "Instructor"
-     - :material-account-circle: [Mickael Temporão](https://durkheim.u-bordeaux.fr/Notre-equipe/Chercheur-e-s-et-enseignant-e-s-chercheur-e-s/CV/Mickael-Temporao)
+     - :material-account-circle: [Mickael Temporão](https://www.centreemiledurkheim.fr/notre-equipe/mickael-temporao/)
          - :fontawesome-brands-twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
          - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
      - :octicons-home-24: ScPoBx, B.140
