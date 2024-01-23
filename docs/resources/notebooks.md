@@ -1,6 +1,6 @@
 # Course Notebooks
 
-- You can take a look at the variable list in the [*American National Election Study*](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
+- Online Variable Explorer [*American National Election Study*](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
 
 - [:fontawesome-solid-file-code: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb)
 
