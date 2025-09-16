@@ -6,7 +6,7 @@
 </figure>
 
 !!! note inline end "Instructor"
-     - :material-account-circle: [Mickael Temporão](https://www.centreemiledurkheim.fr/notre-equipe/mickael-temporao/)
+     - :material-account-circle: [Mickael Temporão](https://ent.sciencespobordeaux.fr/fr/annuaire/t/e/m/uduser-temporao-mickael-fr.html)
          - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
      - :octicons-home-24: ScPoBx, B.140
      - :fontawesome-regular-calendar-check: [**Sign up for a meeting**](https://calendar.app.google/gC9dJNLrdZY7pWax6)
