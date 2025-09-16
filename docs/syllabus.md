@@ -12,9 +12,7 @@
 What you will learn in this course?
 This course introduces students to the building blocks of data science and machine learning with real world data and applications in political science, sociology or economics.
 
-<center>
-![Draw The Owl](https://www.forimpact.org/wp-content/uploads/2014/01/HowToDrawOwl.jpg)
-</center>
+![Draw The Owl](https://www.forimpact.org/wp-content/uploads/2014/01/HowToDrawOwl.jpg){ align=left }
 The ability to collect and analyze data in a sophisticated manner is now a crucial skill set for the modern job market across industries. Learning such methods and tools requires practice. This course follows a “learn-by-doing” approach and will place emphasis on gaining experience by analyzing real-world data and solving problems using cutting edge yet free open source software. It will allow you to apply your theoretical knowledge and articulate the methods learned in an end to end research project throughout the course. The course is designed for social science students that are not necessarily familiar with quantitative methods or computer programming.
 
 Learning support will be provided for at least one programming language, such as *C++*, *Julia*, *Python*, or *R*, but the choice of language supported may vary between years, depending on judged benefits to students, whether in terms of pedagogy or resulting skills. This year, the default choice is *Python*.

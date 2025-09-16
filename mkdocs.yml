@@ -21,6 +21,7 @@ theme:
     - navigation.indexes
 
 markdown_extensions:
+  - md_in_html
   - attr_list
   - toc:
       permalink: true
