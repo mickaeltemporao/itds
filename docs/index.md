@@ -1,9 +1,9 @@
 # Introduction to Data Science
 
-<figure>
-  <img src="https://img.huffingtonpost.com/asset/5c930c4a36000020266dac44.gif?ops=scalefit_630_noupscale" width=600 />
-  <figcaption>The Needle from Nate Cohn -- TheUpshot @NYTimes</figcaption>
-</figure>
+![Image title](images/pa_dla_fig_1.pdf)
+/// caption
+Comparison of estimated ideological positions for the network scaling approach and the dynamic lexicon approach (Temporão et al., 2018). 
+///
 
 !!! note inline end "Instructor"
      - :material-account-circle: [Mickael Temporão](https://ent.sciencespobordeaux.fr/fr/annuaire/t/e/m/uduser-temporao-mickael-fr.html)
@@ -11,7 +11,13 @@
      - :octicons-home-24: ScPoBx, B.140
      - :fontawesome-regular-calendar-check: [**Sign up for a meeting**](https://calendar.app.google/gC9dJNLrdZY7pWax6)
 
-Can social media influence election outcomes? What are the factors influencing vote choice? Can we predict election outcomes reliably? These are just a few of the numerous questions that political scientists are tackling with data science. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied political scientists and employ many of the same techniques you will learn in this course.
+How do citizens form their political opinions? Why do some movements spread rapidly online while others fail to gain traction? What explains variations in voter turnout across contexts and over time? How do misinformation, media environments, and personal networks shape political behaviour?
+
+These are some of the central questions driving contemporary research in political science and the study of public opinion. Answering them today requires not only strong theoretical foundations but also the ability to collect, manage, and analyze increasingly complex forms of data—from surveys and administrative records to social media streams and digital traces of behaviour.
+
+Beyond academia, companies, governments, and non-profits have also invested heavily in data science to understand their audience. In many ways, data scientists in these institutions are applied social scientists, drawing on the same set of methods you will learn in this course—from statistical modeling to text and network analysis.
+
+This course introduces the core concepts, methods, and tools of data science for social scientists. We will explore how to formulate research questions in ways that leverage new data sources, how to process and visualize data to generate insights, and how to apply computational approaches (e.g. text analysis, network analysis, machine learning) to better understand public opinion and political behaviour. Our focus will be on linking methods to substantive questions, ensuring that the use of data science serves theory-driven and policy-relevant research.
 
 
 ## License

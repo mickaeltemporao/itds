@@ -21,6 +21,7 @@ theme:
     - navigation.indexes
 
 markdown_extensions:
+  - attr_list
   - toc:
       permalink: true
   - pymdownx.emoji:
@@ -30,6 +31,7 @@ markdown_extensions:
       linenums: true
       linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
+  - pymdownx.blocks.caption
   - pymdownx.superfences
   - pymdownx.keys
   - pymdownx.tasklist:
@@ -41,11 +43,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mickaeltemporao
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/mickaeltemporao
 extra_css:
   - stylesheets/extra.css
-# repo_url: https://github.com/mkdocs/mkdocs/
 
 # Page tree
 nav:
@@ -59,15 +58,15 @@ nav:
     - schedule.md
     - Modules:
       - modules/introduction.md
-      - modules/tools.md
-      - modules/programming-1.md
-      - modules/programming-2.md
-      - modules/programming-3.md
-      - modules/exploration-1.md
-      - modules/exploration-2.md
-      - modules/management-1.md
-      - modules/management-2.md
-      - modules/management-3.md
+      # - modules/tools.md
+      # - modules/programming-1.md
+      # - modules/programming-2.md
+      # - modules/programming-3.md
+      # - modules/exploration-1.md
+      # - modules/exploration-2.md
+      # - modules/management-1.md
+      # - modules/management-2.md
+      # - modules/management-3.md
       # - modules/causality.md
       # - modules/sampling.md
       # - modules/measurement.md
