@@ -1,19 +1,33 @@
 # Onboarding
 
-Make sure you have completed the following activities before the second class meeting:
+Before the second class meeting, please complete the following steps:
 
-1. Create a [:fontawesome-brands-google: **Colaboratory**](https://colab.research.google.com/notebooks/intro.ipynb) account.
-    - You can use an existing :fontawesome-brands-google: Google account or create a new one.
-    - This is the main tool we will use to complete all of the courses activities.
-2. Create a [:fontawesome-brands-github: **GitHub**](https://github.com/) account using your **@scpobx.fr** email.
-    - This will allow you to join the chat.
-4. Validate your :fontawesome-brands-github: **GitHub** account with the code received by email.
-5. Join the course chat on [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/ScPoBx/introduction-to-data-science) and say hi!
-    - Select your newly created :fontawesome-brands-github: **GitHub** account when prompted to join the chat.
-    - This is the main tool we will use to communicate.
-6. Install the [:fontawesome-brands-gitter: **Gitter**](https://gitter.im/apps) app on your :octicons-device-mobile-24: and/or :fontawesome-solid-laptop:
 
-For now, you can explore these tools by yourself. If these tools don't make sense yet do not worry. We'll cover them in the upcoming class meetings.
+1. **Install a Package Manager**:  
+    - This will make installing software easier.
+        - **Windows**: [Chocolatey](https://chocolatey.org/install)  
+        - **Mac**: [Homebrew](https://brew.sh/)  
+        - **Linux**: You already have a package manager (e.g., `apt`, `dnf`, `pacman`).  
+
+2. **Install Visual Studio Code (VS Code)**  
+    - Download it from [:fontawesome-solid-laptop-code: **Visual Studio Code**](https://code.visualstudio.com/).  
+    - This will be our main editor for coding and document preparation.
+
+3. **Create a GitHub account**  
+    - Sign up on [:fontawesome-brands-github: **GitHub**](https://github.com/) 
+    - Validate your account with the code received by email.  
+
+4. **Create a typst account**  
+    - Sign up on [typst](https://typst.app/).   
+    - Typst is a modern alternative to LaTeX for typesetting documents.  
+
+5. **Join the Chat**  
+    - Connect via [:fontawesome-brands-whatsapp: **WhatsApp**](https://chat.whatsapp.com/DUug7AgVtx5EanHW8XvwGp).  
+    - Send a short hello message once you’ve joined.  
+
+💡 *Don’t worry if some of these tools don’t make sense yet, we’ll go over them together in class. For now, just make sure everything is installed and set up.*  
+
 
 Other resources will continue to be added throughout the course length. You should check the resource pages regularly!
+
 
