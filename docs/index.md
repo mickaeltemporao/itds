@@ -7,10 +7,9 @@
 
 !!! note inline end "Instructor"
      - :material-account-circle: [Mickael Temporão](https://www.centreemiledurkheim.fr/notre-equipe/mickael-temporao/)
-         - :fontawesome-brands-twitter: [@mickaeltemporao](https://twitter.com/mickaeltemporao)
          - :fontawesome-brands-github: [@mickaeltemporao](https://github.com/mickaeltemporao)
      - :octicons-home-24: ScPoBx, B.140
-     - :fontawesome-regular-calendar-check: [**Sign up for a meeting**](https://calendar.app.google/FEpE4sdwyFZZA4x78)
+     - :fontawesome-regular-calendar-check: [**Sign up for a meeting**](https://calendar.app.google/gC9dJNLrdZY7pWax6)
 
 Can social media influence election outcomes? What are the factors influencing vote choice? Can we predict election outcomes reliably? These are just a few of the numerous questions that political scientists are tackling with data science. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied political scientists and employ many of the same techniques you will learn in this course.
 
