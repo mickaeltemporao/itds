@@ -16,5 +16,5 @@ Students are expected to be actively participating, engaged and focused during c
 
 ## **:fontawesome-regular-comments: Online Engagement**
 
-Students are also expected to be active on the communication platform, that is by asking questions or by helping their peers when they have questions. For more details see the [Communication](../../#communication) guidelines in the syllabus.
+Students are also expected to be active on the communication platform, that is by asking questions or by helping their peers when they have questions. For more details see the [Communication](../syllabus.md#communication)
 
