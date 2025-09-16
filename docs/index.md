@@ -1,6 +1,6 @@
 # Introduction to Data Science
 
-![Temporão et al., 2018](../images/pa_dla_fig_1.pdf)
+![Temporão et al., 2018](images/pa_dla_fig_1.pdf)
 /// caption
 Comparison of estimated ideological positions for the network scaling approach and the dynamic lexicon approach (Temporão et al., 2018). 
 ///
