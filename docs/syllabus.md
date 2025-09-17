@@ -84,10 +84,10 @@ The course is evaluated over two semesters through various activities allowing s
 
 | Activities                  | Weight |
 | -                           | :-:    |
-| Participation & peer review | 35%    |
+| Participation, peer review  | 30%    |
 | Writing contributions       | 30%    |
-| Code & reproducibility      | 30%    | 
-| Final paper                 | 15%    |
+| Coding contributions        | 30%    | 
+| Final paper                 | 10%    |
 
 
 ## Communication
