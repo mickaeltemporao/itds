@@ -4,9 +4,9 @@ This schedule is an approximation, subject to change due needs of the students i
 
 
 !!! info inline end "Groups Info"
-    - **Group 1:** Student X, Student Y, Student Y.
-    - **Group 2:** Student X, Student Y, Student Y.
-    - **Group 3:** Student X, Student Y, Student Y.
+    - **Group 1:** Manon, Mathis, Morgane, Suzon.
+    - **Group 2:** Baptiste, Bruno, Iggy, Marion.
+    - **Group 3:** Jules, Maïann, Mattin, Samuel. 
 
 ## Labels
 - **:fontawesome-solid-book-open: Class:** Indicates that there is a class meeting on this day. Contains a link to the materials.
