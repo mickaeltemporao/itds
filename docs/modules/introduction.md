@@ -12,7 +12,10 @@
 ## For next time
 
 - Complete [Onboarding](../resources/onboarding.md) before the next class.
-- Start thinking about factors that might influence different types of polarization.
+
+* **:fontawesome-solid-pen-nib: Writers:** Find 2-3 papers that discuss about affective polarization (what it is?).  
+* **:fontawesome-solid-laptop-code: Hackers:** Find 2-3 papers that discuss how affective polarization has been measured?.
+- 
 - Recommended readings:
     - [Grimmer, J. (2015). We are all social scientists now: How big data, machine learning, and causal inference work together. 'PS: Political Science & Politics', 48(1), 80-83.](https://stanford.edu/~jgrimmer/bd_2.pdf)
     - [Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science. *Nature human behaviour*, 1(1), 1-9.](https://www.nature.com/articles/s41562-016-0021)
