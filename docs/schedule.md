@@ -2,45 +2,62 @@
 
 This schedule is an approximation, subject to change due needs of the students in the course. Students will be informed of changes to the schedule.
 
-## Description
-- **:octicons-book-24: Class:** Indicates that there is a class meeting on this day. Contains a link to the materials.
-- **:octicons-mortar-board-24: Demo:** Indicates that there is a live demo on this day. Contains a link to the instructions.
-- **:fontawesome-solid-chess: Challenge:** Indicates that there is a coding challenge **due before class on this day**. Contains a link to the instructions.
-- **:octicons-file-code-24: Project:** Indicates that there is a project due on the specified date. Contains a link to the instructions.
 
-## Semester 1
-<!-- TODO: REPLACE | 2021/10/21 | Introduction to data exploration   | [:octicons-book-24:](modules/programming-4.md)   | [:octicons-mortar-board-24: - **Carolina**](activities/participation.md)       | [**:fontawesome-solid-chess: - C2**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-2.ipynb) | -->
+!!! info inline end "Groups Info"
+    - **Group 1:** Student X, Student Y, Student Y.
+    - **Group 2:** Student X, Student Y, Student Y.
+    - **Group 3:** Student X, Student Y, Student Y.
 
-| Date       | Module                             | Class                                          | Demo                                                      | Deadline                                                                                                                                   |
-| :-:        | :-:                                | :-:                                            | :-:                                                       | :-:                                                                                                                                        |
-| 2021/09/16 | Introduction                       | [:octicons-book-24:](modules/introduction.md)  |                                                           |                                                                                                                                            |
-| 2021/09/23 | Tools                              | [:octicons-book-24:](modules/tools.md)         |                                                           | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md)                                                      |
-| 2021/09/30 | Science, Code, and Voter Turnout   | [:octicons-book-24:](modules/programming-1.md) | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C1**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-1.ipynb) |
-| 2021/10/07 | A Respondent's Survey Data         | [:octicons-book-24:](modules/programming-2.md) | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/10/14 | From Concepts to Code              | [:octicons-book-24:](modules/programming-3.md) | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/10/21 | Introduction to Data Visualisation | [:octicons-book-24:](modules/programming-4.md) | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/10/28 | Exploring Single Variables         | [:octicons-book-24:](modules/exploration-1.md) | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C2**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-2.ipynb) |
-| 2021/11/18 | Exploring Variable Relationships   | [:octicons-book-24:](modules/exploration-2.md) | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/11/23 | *Retrospective - Tue. 15h45-17h15* | :octicons-book-24:                             |                                                           |                                                                                                                                            |
-| 2021/11/25 | Recoding Existing Values           | [:octicons-book-24:](modules/management-1.md)  | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/12/02 | Dealing with Missing Values        | [:octicons-book-24:](modules/management-2.md)  | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            |
-| 2021/12/09 | Grouping and Summarising           | [:octicons-book-24:](modules/management-3.md)  | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C3**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-3.ipynb) |
+## Labels
+- **:fontawesome-solid-book-open: Class:** Indicates that there is a class meeting on this day. Contains a link to the materials.
+- **:fontawesome-solid-award: Milestone:** Marks a key target or achievement the class is expected to reach by that point..
+- **:fontawesome-solid-file-code: Final Project:** Final project due date (S2 TBD).
 
-## Semester 2
-| Date       | Module                             | Class              | Demo                                          | Deadline                            |
-| :-:        | :-:                                | :-:                | :-:                                           | :-:                                 |
-| 2022/01/06 | Data Modeling                      | :octicons-book-24: |                                                            |                                     |
-| 2022/01/13 | Data Modeling                      | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/01/20 | Data Modeling                      | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) | **:fontawesome-solid-chess: - C4**  |
-| 2022/01/27 | Data Modeling                      | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/02/03 | Evaluation                         | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/02/10 | Evaluation                         | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/02/17 | Evaluation                         | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) | **:fontawesome-solid-chess: - C5**  |
-| 2022/03/03 | Evaluation                         | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/03/10 | Communication                      | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/03/17 | Communication                      | :octicons-book-24: |  [:octicons-mortar-board-24:](activities/participation.md) |                                     |
-| 2022/03/19 | **Galop - Challenge 6**            |                    |                                                            | **:fontawesome-solid-chess: - C6**  |
-| 2022/03/24 | Communication                      | :octicons-book-24: | [:octicons-mortar-board-24:](activities/participation.md)  |                                     |
-| 2022/03/31 | Communication                      | :octicons-book-24: | [:octicons-mortar-board-24:](activities/participation.md)  |                                     |
-| 2022/04/10 | **Final Report Deadline**          |                    |                                                            | **:octicons-file-code-24: Project** |
+### Roles
+Each week, students work in groups of four within one of the three rotating groups.
+
+* **:fontawesome-solid-pen-nib: Writers:** Draft and revise paper sections; present their draft in class; incorporate feedback from peers.  
+* **:fontawesome-solid-laptop-code: Hackers:** Prepare demo notebooks or scripts showing the data and methods behind the paper section; deliver a concise in-class demo; refine work based on feedback.  
+* **:fontawesome-solid-magnifying-glass: Reviewers:** Read drafts and demos before class; provide structured, constructive feedback during the session; record comments in the shared review document.  
+
+
+
+
+| Date       | Module                                                                   | :fontawesome-solid-pen-nib: | :fontawesome-solid-laptop-code: | :fontawesome-solid-magnifying-glass: | Milestone |
+| :-:        | :-:                                                                       | :-:    | :-:    | :-:    | :-:                                                                         |
+| 2025/09/17 | [**:fontawesome-solid-book-open: Introduction**](modules/introduction.md)|        |        |        |                                                                             |
+| 2025/09/24 | :fontawesome-solid-book-open: Science, Code, & Writing                   | **G1** | **G2** | **G3** | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md) |
+| 2025/10/01 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** | **:fontawesome-solid-award: Idea** |
+| 2025/10/08 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** |      |
+| 2025/10/15 | :fontawesome-solid-book-open: TBD                                        | **G1** | **G2** | **G3** |      |
+| 2025/10/22 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** |      |
+| 2025/11/05 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** | **:fontawesome-solid-award: Proposal** |
+| 2025/11/12 | :fontawesome-solid-book-open: TBD                                        | **G1** | **G2** | **G3** |      |
+| 2025/11/19 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** |      |
+| 2025/11/26 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** |      |
+| 2025/12/03 | :fontawesome-solid-book-open: TBD                                        |        |        |        | **:fontawesome-solid-award: Exploration** | 
+
+
+## Tentative Roadmap
+- Sessions 1–4: Foundations & Research Design
+- Sessions 5–8: Data Collection & Literature Review
+- Sessions 9–12: Measurement & First Analyses
+- Sessions 13–16: Analysis, Results & Revision
+- Sessions 17–20: Writing & Revision more revision 
+
+<!-- | Date       | Module                              | Demo                                                      | Deadline                                                                                                                                   | -->
+<!-- | :-:        | :-:                                 | :-:                                                       | :-:                                                                                                                                        | -->
+<!-- | 2025/09/17 | [](modules/introduction.md) Introduction                           |                                                           |                                                                                                                                            | -->
+<!-- | 2025/09/24 | [](modules/tools.md) Science, Code, & Writing                                         |                                                           | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md)                                                      | -->
+<!-- | 2025/10/01 | [](modules/programming-1.md) Science, Code, and Voter Turnout      | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C1**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-1.ipynb) | -->
+<!-- | 2025/10/08 | [](modules/programming-1.md) Science, Code, and Voter Turnout      | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C1**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-1.ipynb) | -->
+<!-- | 2025/10/15 | [](modules/programming-2.md) A Respondent's Survey Data            | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+<!-- | 2025/10/22 | [](modules/programming-3.md) From Concepts to Code                 | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+<!-- | 2025/11/05 | [](modules/programming-4.md) Introduction to Data Visualisation    | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+<!-- | 2025/11/12 | [](modules/exploration-1.md) Exploring Single Variables            | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C2**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-2.ipynb) | -->
+<!-- | 2025/11/19 | [](modules/exploration-2.md) Exploring Variable Relationships      | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+<!-- | 2025/11/26 | [](modules/management-1.md) Recoding Existing Values               | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+<!-- | 2025/12/03 | [](modules/management-2.md) Dealing with Missing Values            | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
+
+
 

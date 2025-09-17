@@ -1,4 +1,4 @@
-# Onboarding
+# :fontawesome-regular-paper-plane: Onboarding
 
 Before the second class meeting, please complete the following steps:
 
