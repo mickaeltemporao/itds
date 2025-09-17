@@ -52,10 +52,10 @@ extra_css:
 nav:
   - Home: index.md
   - syllabus.md
-  - Activities:
-    - activities/participation.md
-    - activities/challenges.md
-    - activities/project.md
+  # - Activities:
+  #   - activities/participation.md
+  #   - activities/challenges.md
+  #   - activities/project.md
   - Schedule:
     - schedule.md
     - Modules:

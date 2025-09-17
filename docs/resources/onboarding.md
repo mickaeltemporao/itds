@@ -10,7 +10,7 @@ Before the second class meeting, please complete the following steps:
         - **Linux**: You already have a package manager (e.g., `apt`, `dnf`, `pacman`).  
 
 2. **Install Visual Studio Code (VS Code)**  
-    - Download it from [:fontawesome-solid-laptop-code: **Visual Studio Code**](https://code.visualstudio.com/).  
+    - Download and install it from [:fontawesome-solid-laptop-code: **Visual Studio Code**](https://code.visualstudio.com/).  
     - This will be our main editor for coding and document preparation.
 
 3. **Create a GitHub account**  
@@ -18,8 +18,8 @@ Before the second class meeting, please complete the following steps:
     - Validate your account with the code received by email.  
 
 4. **Create a typst account**  
-    - Sign up on [typst](https://typst.app/).   
-    - Typst is a modern alternative to LaTeX for typesetting documents.  
+    - Sign up on [**typst**](https://typst.app/).   
+    - Typst is a modern alternative to LaTeX for typesetting scientific documents.  
 
 5. **Join the Chat**  
     - Connect via [:fontawesome-brands-whatsapp: **WhatsApp**](https://chat.whatsapp.com/DUug7AgVtx5EanHW8XvwGp).  
