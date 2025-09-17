@@ -64,7 +64,7 @@ Live meetings are held once per week and are divided into three parts of roughly
 
 > - :fontawesome-solid-pen-nib: Writers upload their draft **48h before class**; 
 > - :fontawesome-solid-laptop-code: Hackers post demo code/scripts **48h before class**; 
-> - :fontawesome-solid-magnifying-glass: Reviewers prepare at least 3 written comments/questions and share it, **before the next class meeting**.
+> - :fontawesome-solid-magnifying-glass: Reviewers prepare at least 3 written comments/questions and share them, **before the next class meeting**.
 
 ### 2. Theory (instructor-led, 30 min)  
 The instructor expands on the week's concepts, linking student demos to broader literature, highlighting methodological trade-offs, and suggesting readings or strategies. Students are expected to follow along on their laptops and ask clarifying questions.  
