@@ -1,7 +1,10 @@
 # :fontawesome-regular-paper-plane: Onboarding
 
-Before the second class meeting, please complete the following steps:
+!!! tip inline end
 
+    Other resources will continue to be added throughout the course length. You should check the resource pages regularly!
+
+Before the second class meeting, please complete the following steps:
 
 1. **Install a Package Manager**:  
     - This will make installing software easier.
@@ -26,8 +29,5 @@ Before the second class meeting, please complete the following steps:
     - Send a short hello message once you’ve joined.  
 
 💡 *Don’t worry if some of these tools don’t make sense yet, we’ll go over them together in class. For now, just make sure everything is installed and set up.*  
-
-
-Other resources will continue to be added throughout the course length. You should check the resource pages regularly!
 
 
