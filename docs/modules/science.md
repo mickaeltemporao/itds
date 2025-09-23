@@ -1,4 +1,4 @@
-# The Scientific Method
+# The Scientific Toolkit
 
 ## Agenda
 - [ ] Collaborative paper discussion 
