@@ -124,9 +124,8 @@ You should get paper.pdf.
 
 **:fontawesome-solid-house-laptop: Recommended Practice**
 
-- [:fontawesome-solid-quote-left: typst](https://typst.app/docs/tutorial/)
+- [Iyengar, Shanto, Gaurav Sood, and Yphtach Lelkes. "Affect, not ideology: A social identity perspective on polarization." *Public opinion quarterly* 76, no. 3 (2012): 405-431.](https://academic.oup.com/poq/article-abstract/76/3/405/1894274)
 
 **:fontawesome-solid-house-laptop: Recommended Practice**
 
-- [Iyengar, Shanto, Gaurav Sood, and Yphtach Lelkes. "Affect, not ideology: A social identity perspective on polarization." *Public opinion quarterly* 76, no. 3 (2012): 405-431.](https://academic.oup.com/poq/article-abstract/76/3/405/1894274)
-
+- [:fontawesome-solid-quote-left: typst](https://typst.app/docs/tutorial/)
