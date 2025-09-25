@@ -14,12 +14,10 @@ The project is scaffolded across weekly sessions so that students both learn dat
 The ability to collect and analyze data in a sophisticated manner is now a crucial skill set for the modern job market across industries. Learning such methods and tools requires practice. This course follows a **“learn-by-doing”** approach and will place emphasis on gaining experience by analyzing real-world data and solving problems using cutting edge software that is free and open source. It will allow you to apply your theoretical knowledge and articulate the methods learned in an end to end research project throughout the course. The course is designed for social science students that are not necessarily familiar with quantitative methods or computer programming.
 
 ![Draw The Owl](https://www.forimpact.org/wp-content/uploads/2014/01/HowToDrawOwl.jpg){width=425}
-/// caption
-///
 
 Learning support will be provided for at least one programming language, such as *C++*, *Julia*, *Python*, or *R*, but the choice of language supported may vary between years, depending on judged benefits to students, whether in terms of pedagogy or resulting skills. 
 
-- This year, we will use :fontawesome-brands-python: *Python!*
+- This year, we will rely on [:fontawesome-brands-python: **Python.**](https://www.python.org/)
 
 ## Goals
 1. Visualize, summarise, and analyse real-world data using reproducible code based on cutting-edge open source tools for data analysis.
