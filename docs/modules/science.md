@@ -110,14 +110,17 @@ You should get paper.pdf.
 
 ## For next time
 
-- **:fontawesome-solid-pen-nib: Writers:** 
-    - Research Question with regards to France (One at least. your goal is to find a gap, or a puzzle in the literature)
-    - 3 hypothesis that you can link to one or more scientific papers. 
-- **:fontawesome-solid-laptop-code: Hackers:** 
-    - Identify existing datasets that could be used to measure AP in France? (Secondary Data)
-    - Sugest other data types, besides surveys to measure AP in France?
-    - Are there any feasible primary data collection approahces? (less than 1 month of work)
-- **:fontawesome-solid-book: Recommended Reading:** ...
-- **:fontawesome-solid-house-laptop: Recommended Practice** 
-    - [:fontawesome-solid-quote-left: typst](https://typst.app/docs/tutorial/)
+**:fontawesome-solid-pen-nib: Writers:** 
+- Research Question with regards to France (One at least. Your goal is to find a gap, or a puzzle in the literature)
+- 3 hypothesis that you can link to one or more scientific papers. 
+**:fontawesome-solid-laptop-code: Hackers:** 
+- Identify existing and conventional datasets that could be used to measure AP in France? 
+    - Include scientific reference if it is an existing data set used in another paper.
+- Suggest other data less conventional datatypes to measure AP in France.
+- can you think of feasible primary data collection approaches? (less than 1 month of work)
+
+**:fontawesome-solid-house-laptop: Recommended Practice** 
+- [:fontawesome-solid-quote-left: typst](https://typst.app/docs/tutorial/)
+**:fontawesome-solid-house-laptop: Recommended Practice** 
+- 
 
