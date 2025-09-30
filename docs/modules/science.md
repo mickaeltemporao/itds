@@ -12,7 +12,6 @@
 2. **Use a modern research toolbox** for reproducible and collaborative work.
 3. **Develop practical coding and documentation skills** to produce and manage reproducible outputs.
 
-
 <!-- - Next week -->
 <!-- - Python -->
 <!-- - Run your first Python script and produce a simple plot -->
@@ -29,7 +28,6 @@
 4. The content is the method: The contribution lies in clear, defensible procedures.
 
 ### [Is a literature review a contribution?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/00B62000B6760AB78E1BD27E32A94C9F/S1049096506060264a.pdf/doing-a-literature-review.pdf?casa_token=szUhrJK1G30AAAAA:yj5nqRIULvP0oFEmACEq9AkAIZPdF8YBt9xWDetabQJwdKzVTZQ3yZvbGszZMNoesDnYgFtim2AA)
-
 
 ---
 
@@ -66,7 +64,8 @@ ChatGPT is a Large Language Model (LLM) designed to generate human-like text bas
 
 ### Hacking with **:fontawesome-solid-laptop-code: VS Code**
 
-VS Code is a free, user-friendly code editor that helps you write and organize your project files in one place. Beyond coding, you can use it to manage documents, run scripts, and integrate extensions for Python, Git, Typst, and more, essentially making it your all-in-one research workspace.
+VS Code is a free code editor that helps you write and organize your project files in one place. Beyond coding, you can use it to manage documents, run scripts, and integrate extensions for Python, Git, Typst, and more, essentially making it your all-in-one research workspace.
+
 
 ### Collaborating on **:fontawesome-brands-github: GitHub**
 
@@ -84,12 +83,12 @@ Typst is a lightweight, open-source tool for creating clean, formatted documents
     - **Windows**: [Chocolatey](https://chocolatey.org/install)  
     - **Mac**: [Homebrew](https://brew.sh/)  
     - **Linux**: You already have a package manager (e.g., `apt`, `dnf`, `pacman`).  
-- Can you install :fontawesome-brands-python: Python ?
+- Can you install :fontawesome-brands-python: Python using your package manager ?
 
 ## First Typst document
 - Create a document named `paper.typ` with the following contents:
 ```
-= Week 2: First Results
+= Some Random Text
 
 This document was produced with Typst.
 We computed the average penguin body mass by species. See the figure below.
@@ -120,9 +119,9 @@ You should get paper.pdf.
 - Identify existing and conventional datasets that could be used to measure AP in France? 
     - Include scientific reference if it is an existing data set used in another paper.
 - Suggest other data less conventional datatypes to measure AP in France.
-- can you think of feasible primary data collection approaches? (less than 1 month of work)
+- Can you think of feasible primary data collection approaches? (less than 1 month of work)
 
-**:fontawesome-solid-house-laptop: Recommended Practice**
+**:fontawesome-solid-book: Recommended Practice**
 
 - [Iyengar, Shanto, Gaurav Sood, and Yphtach Lelkes. "Affect, not ideology: A social identity perspective on polarization." *Public opinion quarterly* 76, no. 3 (2012): 405-431.](https://academic.oup.com/poq/article-abstract/76/3/405/1894274)
 
