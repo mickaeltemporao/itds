@@ -26,8 +26,8 @@ Each week, students work in groups of four within one of the three rotating grou
 | Date       | Module                                                                   | :fontawesome-solid-pen-nib: | :fontawesome-solid-laptop-code: | :fontawesome-solid-magnifying-glass: | Milestone |
 | :-:        | :-:                                                                       | :-:    | :-:    | :-:    | :-:                                                                         |
 | 2025/09/17 | [**:fontawesome-solid-book-open: Introduction**](modules/introduction.md)|        |        |        |                                                                             |
-| 2025/09/24 | [**:fontawesome-solid-book-open: The Scientific Toolkit**](modules/science.md) | **G1** | **G2** | **G3** | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md) |
-| 2025/10/01 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** | **:fontawesome-solid-award: Idea** |
+| 2025/09/24 | [**:fontawesome-solid-book-open: Scientific Toolkit (1/2)**](modules/science.md) | **G1** | **G2** | **G3** | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md) |
+| 2025/10/01 | [**:fontawesome-solid-book-open: Scientific Toolkit (2/2)**](modules/science-2.md)                                        | **G2** | **G3** | **G1** | **:fontawesome-solid-award: Idea** |
 | 2025/10/08 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** |      |
 | 2025/10/15 | :fontawesome-solid-book-open: TBD                                        | **G1** | **G2** | **G3** |      |
 | 2025/10/22 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** |      |
