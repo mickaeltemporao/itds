@@ -109,7 +109,7 @@ You should get paper.pdf.
 
 ## For next time
 
-**:fontawesome-solid-pen-nib: Writers:**
+**:fontawesome-solid-pen-nib: Writers**
 
 - Setup a shared typst project and share the link on the Chat.
 - The typst document contains an introduction paragraph that introduces a puzzle/gap. 
@@ -119,7 +119,7 @@ You should get paper.pdf.
 - The documents contains a reference section with all the references found until now.
     - :fontawesome-solid-rocket: Above and beyond: Create a `references.bib` file in the typst project with current references. Adjust citations using typst academic citing syntax.
 
-**:fontawesome-solid-laptop-code: Hackers:**
+**:fontawesome-solid-laptop-code: Hackers**
 
 - Acquire latest data & codebooks for the following datasets
     - [ESS](https://www.europeansocialsurvey.org/) & [CSES](https://cses.org/) datasets
