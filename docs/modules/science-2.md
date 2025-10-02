@@ -111,17 +111,23 @@ You should get paper.pdf.
 
 **:fontawesome-solid-pen-nib: Writers:**
 
-- Research question and hypotheses paragraph in typst well formated with references?
+- Setup a shared typst project and share the link on the Chat.
+- The typst document contains an introduction paragraph that introduces a puzzle/gap. 
+    1. It leverages some of the academic articles we have found until now. 
+    2. It introduces the **research question** and at least **3 hypotheses** (coordiante with :fontawesome-solid-laptop-code: Hackers). 
+    3. It is formatted using typst.
+- The documents contains a reference section with all the references found until now.
+    - :fontawesome-solid-rocket: Above and beyond: Create a `references.bib` file in the typst project with current references. Adjust citations using typst academic citing syntax.
 
 **:fontawesome-solid-laptop-code: Hackers:**
 
-- Acquire data codebooks & identify relevant questions?
-- Setup Github repo with readme?
+- Acquire data & codebooks for the following datasets
+    - ESS & GSS datasets
+- Identify questions (keep track of their id) in the codebooks that could be used to explore at least 3 of the 9 identified hypothesis.
+    - :fontawesome-solid-rocket: Above and beyond: Identify questions (keep track of their id) to explore all of the identified hypothesis with links with existing papers.
 
-**:fontawesome-solid-book: Recommended Practice**
-
-- 
+- Instructor: Setup Github Repository with Readme
 
 **:fontawesome-solid-house-laptop: Recommended Practice**
 
-- [:fontawesome-solid-quote-left: typst](https://typst.app/docs/tutorial/)
+- [:fontawesome-solid-quote-left: typst bibliography](https://typst.app/docs/reference/model/bibliography/)
