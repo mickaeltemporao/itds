@@ -121,9 +121,9 @@ You should get paper.pdf.
 
 **:fontawesome-solid-laptop-code: Hackers:**
 
-- Acquire data & codebooks for the following datasets
-    - ESS & GSS datasets
-- Identify questions (keep track of their id) in the codebooks that could be used to explore at least 3 of the 9 identified hypothesis.
+- Acquire latest data & codebooks for the following datasets
+    - [ESS](https://www.europeansocialsurvey.org/) & [CSES](https://cses.org/) datasets
+- Identify questions (keep track of their id) in each of the codebooks that could be used to explore at least 3 of the 9 identified hypothesis.
     - :fontawesome-solid-rocket: Above and beyond: Identify questions (keep track of their id) to explore all of the identified hypothesis with links with existing papers.
 
 - Instructor: Setup Github Repository with Readme
