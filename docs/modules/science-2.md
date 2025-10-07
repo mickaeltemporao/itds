@@ -2,8 +2,8 @@
 
 ## Agenda
 - [ ] Collaborative paper discussion 
-- [ ] A toolbox for science: LLMs, Typst, VS Code, Git/GitHub, 
-- [ ] Hack-time: setup + first lines of code 
+- [ ] A toolbox for science
+- [ ] Hack-time: First lines of code in typsts
 - [ ] For next time 
 
 
@@ -78,13 +78,6 @@ Typst is a lightweight, open-source tool for creating clean, formatted documents
 
 # Hack-Time: Setup + Your First Lines of Code 
 
-## Package Manager Setup:  
-- This will make installing software much easier!
-    - **Windows**: [Chocolatey](https://chocolatey.org/install)  
-    - **Mac**: [Homebrew](https://brew.sh/)  
-    - **Linux**: You already have a package manager (e.g., `apt`, `dnf`, `pacman`).  
-- Can you install :fontawesome-brands-python: Python using your package manager ?
-
 ## First Typst document
 - Create a document named `paper.typ` with the following contents:
 ```
@@ -96,14 +89,9 @@ We computed the average penguin body mass by species. See the figure below.
 ```
 - Compile (export as pdf).
 
-You should get paper.pdf.
+You should get a PDF file (eg. `paper.pdf`).
 
-## Put your paper on GitHub
-- In GitHub 
-  - Create a new public or private repository.
-  - Upload the pdf.
-  - Add a commit changes: “My first commit, horray!”
-  - Push your changes to GitHub.
+- Can you also find a way to export your typst file (eg. `paper.typ`)?
 
 ---
 
@@ -126,7 +114,7 @@ You should get paper.pdf.
 - Identify questions (keep track of their id) in each of the codebooks that could be used to explore at least 3 of the 9 identified hypothesis.
     - :fontawesome-solid-rocket: Above and beyond: Identify questions (keep track of their id) to explore all of the identified hypothesis with links with existing papers.
 
-- Instructor: Setup Github Repository with Readme
+- Instructor: Setup Github Repository with a `README.md` file
 
 **:fontawesome-solid-house-laptop: Recommended Practice**
 

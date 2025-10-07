@@ -2,8 +2,8 @@
 
 ## Agenda
 - [ ] Collaborative paper discussion 
-- [ ] A toolbox for science: LLMs, Typst, VS Code, Git/GitHub, 
-- [ ] Hack-time: setup + first lines of code 
+- [ ] A toolbox for science
+- [ ] Hack-time: First lines of code in typsts
 - [ ] For next time 
 
 
@@ -78,13 +78,6 @@ Typst is a lightweight, open-source tool for creating clean, formatted documents
 
 # Hack-Time: Setup + Your First Lines of Code 
 
-## Package Manager Setup:  
-- This will make installing software much easier!
-    - **Windows**: [Chocolatey](https://chocolatey.org/install)  
-    - **Mac**: [Homebrew](https://brew.sh/)  
-    - **Linux**: You already have a package manager (e.g., `apt`, `dnf`, `pacman`).  
-- Can you install :fontawesome-brands-python: Python using your package manager ?
-
 ## First Typst document
 - Create a document named `paper.typ` with the following contents:
 ```
@@ -121,7 +114,7 @@ You should get paper.pdf.
 - Suggest other data less conventional datatypes to measure AP in France.
 - Can you think of feasible primary data collection approaches? (less than 1 month of work)
 
-**:fontawesome-solid-book: Recommended Practice**
+**:fontawesome-solid-book: Recommended Reading**
 
 - [Iyengar, Shanto, Gaurav Sood, and Yphtach Lelkes. "Affect, not ideology: A social identity perspective on polarization." *Public opinion quarterly* 76, no. 3 (2012): 405-431.](https://academic.oup.com/poq/article-abstract/76/3/405/1894274)
 

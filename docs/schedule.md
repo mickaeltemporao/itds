@@ -28,7 +28,7 @@ Each week, students work in groups of four within one of the three rotating grou
 | 2025/09/17 | [**:fontawesome-solid-book-open: Introduction**](modules/introduction.md)|        |        |        |                                                                             |
 | 2025/09/24 | [**:fontawesome-solid-book-open: Scientific Toolkit (1/2)**](modules/science.md) | **G1** | **G2** | **G3** | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md) |
 | 2025/10/01 | [**:fontawesome-solid-book-open: Scientific Toolkit (2/2)**](modules/science-2.md)                                        | **G2** | **G3** | **G1** | **:fontawesome-solid-award: Idea** |
-| 2025/10/08 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** |      |
+| 2025/10/08 | [**:fontawesome-solid-book-open: Concepts & Variables**](modules/programming-1.md)                                        | **G3** | **G1** | **G2** |      |
 | 2025/10/15 | :fontawesome-solid-book-open: TBD                                        | **G1** | **G2** | **G3** |      |
 | 2025/10/22 | :fontawesome-solid-book-open: TBD                                        | **G2** | **G3** | **G1** |      |
 | 2025/11/05 | :fontawesome-solid-book-open: TBD                                        | **G3** | **G1** | **G2** | **:fontawesome-solid-award: Proposal** |
