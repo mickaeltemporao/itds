@@ -2,7 +2,6 @@
 
 ## Agenda
 - [ ] Collaborative paper discussion 
-- [ ] A toolbox for science: LLMs, Typst, VS Code, Git/GitHub, 
 - [ ] Hack-time: Academic citations in typst & package manager
 - [ ] For next time 
 

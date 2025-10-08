@@ -3,7 +3,7 @@
 ## Agenda
 - [ ] Collaborative paper discussion 
 - [ ] A toolbox for science
-- [ ] Hack-time: First lines of code in typsts
+- [ ] Hack-time: First lines of code
 - [ ] For next time 
 
 
