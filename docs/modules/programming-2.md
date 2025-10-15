@@ -8,7 +8,7 @@
 <!-- ## Notebook -->
 <!-- - [:fontawesome-solid-file-code: Getting Started with Python](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/01-getting-started.ipynb) -->
 
----
+# Hack-time
 
 ## Installing a Package Manager
 - This will make installing software much easier!
@@ -23,13 +23,6 @@
 <!-- - Upload the some relevant codebooks or docs to our shared repository. -->
 <!-- - Add a relevant commit message to describe your contribution. -->
 <!-- - Push your changes to GitHub. -->
-
-# Hack-time
-
-## Citing?
-- [📚 Academic Citations in typst](../resources/writing.md#academic-citations-in-typst)
-
----
 
 ## For next time
 
