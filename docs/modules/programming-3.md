@@ -1,23 +1,39 @@
-# From Concepts to Code
+# Working With Data
 
 ## Agenda
-- [ ] Functions, Packages and Data
-    - [ ] Live Demo - Custom Functions
-- [ ] Dataset - The American National Election (ANES)
-- [ ] Challenge Two
+- [ ] Collaborative paper discussion 
+- [ ] Hack-time: VS Code, Python and Notebooks
+- [ ] For next time 
 
-## Notebook
-- [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
+## Collaborative paper discussion 
 
-## Misc
-- [ANES 2020 Overview](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbkf01.htm)
+
+![Mental Model for Reviewers](https://images.squarespace-cdn.com/content/v1/55f73529e4b0e5bde7f43a66/1529065898666-ZTYIPZ3Y5PSV0DUZRU90/like+wish+wonder.png)
+/// caption
+Mental Model for Reviewers.
+///
+
+## Hack-time
+
+### Let's make use of our new package manager!
+- Install :fontawesome-brands-python: Python 
+- Install :fontawesome-solid-laptop-code: VS Code
+
+### VS Code?
+- [📘 VS Code, Python and Notebooks](../resources/notebook-vscode.md)
+
+### Misc ...
+- For now join the shared [GitHub repository](https://github.com/mickaeltemporao/paper-spsc-2026)
 
 ## For next time
-- :fontawesome-solid-chess: Complete Challenge Two
-    - [:fontawesome-solid-file-code: From Concepts to Variables](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-2.ipynb)
-- :fontawesome-solid-laptop-house: Recommended Practice
-    - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
-- :fontawesome-solid-chalkboard-teacher: Live Demo
-    - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
-    - Prepare a handout using the [:fontawesome-solid-file-code: template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb) and share it before the class meeting!
-    - Prepare a 10 minutes live demo.
+
+<!-- **:fontawesome-solid-magnifying-glass: Reviewers** -->
+
+**:fontawesome-solid-pen-nib: Writers**
+
+- Start crafting literature review?
+
+**:fontawesome-solid-laptop-code: Hackers**
+
+- Load data into python and demo?
+
