@@ -2,6 +2,10 @@
 
 All the materials required for this course are free and will shared with the students. For those who would like to add more colour to the concepts introduced in this course here are some indicative readings that can be useful but not required for the course. Some of those are also free and accessible online.
 
+## Misc
+- [NotebookLM](https://notebooklm.google/)
+- [Research Rabbit](https://www.researchrabbit.ai/)
+
 ## Data
 - [ANES 2020 Codebook](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
 - [ANES Article DataBase](https://electionstudies.org/papers-documents/anes-bibliography/)
