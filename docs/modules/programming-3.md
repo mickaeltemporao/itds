@@ -1,9 +1,4 @@
-# Working With Data
-
-## Agenda
-- [ ] Collaborative paper discussion 
-- [ ] Hack-time: VS Code, Python and Notebooks
-- [ ] For next time 
+# Working With Data I
 
 ## Collaborative paper discussion 
 

@@ -1,33 +1,40 @@
-# From Concepts to Code (Second take)
+# Working With Data II
 
-## Agenda
-- [ ] Miscellaneous
-- [ ] Challenge Two Review
-- [ ] Functions, Packages and Data (second take)
-- [ ] Pandas and visualisations
-    - [ ] Live Demo - Intro to visualisations
+## Collaborative paper discussion
 
-## Misc
-- Chat questions & notifications
 
-## Challenge 2 Review
-- Concepts & questions
-    - wording matters!
-    - it is never perfect
-- Answer choices
-    - options you provide inform about the type of variable
-- Types of data
-    - lists and tuples are different!
-    - use `type()`
+![Mental Model for Reviewers](https://images.squarespace-cdn.com/content/v1/55f73529e4b0e5bde7f43a66/1529065898666-ZTYIPZ3Y5PSV0DUZRU90/like+wish+wonder.png){width=66%}
+/// caption
+Mental Model for Reviewers.
+///
 
-## Notebook (same as last week)
-- [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
+
+## The Data Science Pipeline & Hacker's Demo
+![Variables](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
+
+
+## Hack-time
+!!! tip inline end
+    To load and use a notebook in VS Code follow the steps 3 to 5 in [📘 Notebooks in VS Code](../resources/notebook-vscode.md)
+### Working with Data
+
+- Let's load Notebook \#01 into VS Code: 
+    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/data-analysis-codespace/tree/main/notebooks)
+
 
 ## For next time
-- :fontawesome-solid-laptop-house: Recommended Practice
-    - [:fontawesome-solid-file-code: Functions and Packages](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/03-functions-and-packages.ipynb)
-- :fontawesome-solid-chalkboard-teacher: Live Demo
-    - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
-    - Prepare a handout using the [:fontawesome-solid-file-code: template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb) and share it before the class meeting!
-    - Prepare a 10 minutes live demo.
+
+**:fontawesome-solid-pen-nib: Writers**
+
+-
+
+**:fontawesome-solid-laptop-code: Hackers**
+
+-
+
+**:fontawesome-solid-magnifying-glass: Reviewers**
+
+- 5-minute Brief
+    - I like, I wish, I wonder
+    - Top 3 risks for the paper at the moment and concrete fixes
 
