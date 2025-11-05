@@ -60,15 +60,19 @@ Mental Model for Reviewers.
 
 - **Going the extra mile (Optional):**
 
-  - Can you create a filter to keep only French respondents?
+    - Can you create a filter to keep only French respondents?
 
 **:fontawesome-solid-magnifying-glass: Reviewers**
 
-- 5-minute Brief
-    - I like, I wish, I wonder
-    - Top 3 risks for the paper at the moment (we always refer to the `main.typ` file)
+- **5-Minute Brief**
 
+    - Use the "I like, I wish, I wonder" model to give a constructive paper feedback.
+    - Identify the **top 3 current risks** in the paper.
+    - We always refer to the `main.typ` file.
+
+- **Going the Extra Mile (Optional):**
+
+    - Assist Writers & Hackers with integrating feedback received during class!
 
 <!-- * **Bridge to data:** -->
 <!--   Add a short *"From theory to measurement"* paragraph explaining **how the concepts in the literature translate into variables** the Hackers are identifying (e.g., like/dislike items -> affective distance). -->
-
