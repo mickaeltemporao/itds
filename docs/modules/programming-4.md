@@ -26,15 +26,49 @@ Mental Model for Reviewers.
 
 **:fontawesome-solid-pen-nib: Writers**
 
--
+- Work **collaboratively on the `main.typ` file** (other groups can also help, avoid silos).
+- **Consolidate** everything written so far into an **initial "State of the Art"** section in the `main.typ` file.
+
+    - Ensure smooth transitions between subsections and consistent referencing/style.
+    - Integrate any missing literature.
+    - You can keep previous existing files to help you draft, **but your presentation should focus on the updated `main.typ`**.
+
+- **Deliverable:**
+
+    - Updated `main.typ` and compiled pdf shared into the General Chat with the group.
+    - A **5-minute overall presentation** walking through the current version of the paper in the `main.typ` file.
+
+- Going the extra mile (Optional):
+    - Integrate the previously created conceptual map of AP in multiparty systems (DAG).
 
 **:fontawesome-solid-laptop-code: Hackers**
 
--
+- **Identify and extract** the useful variables from the **ESS Round 10**, building on the **previously shared Jupyter Notebook**:
+
+    - Country variable
+    - Vote intention
+    - Like/dislike variables toward parties or political actors
+
+- **Deliverable:**
+
+    - A **documented Notebook (`.ipynb`)** that builds on the previous notebook and uses **python comments to guide the user**.
+        - It loads the ESS 10 data
+        - Creates a list of strings with the identified variable names
+        - Use this list to make a subset data frame with relevant variables only
+        - You share the `.ipynb` file in the General Chat with the group
+    - **5-minute demo** showing variable selection and initial exploration
+
+- **Going the extra mile (Optional):**
+
+  - Can you create a filter to keep only French respondents?
 
 **:fontawesome-solid-magnifying-glass: Reviewers**
 
 - 5-minute Brief
     - I like, I wish, I wonder
-    - Top 3 risks for the paper at the moment and concrete fixes
+    - Top 3 risks for the paper at the moment (we always refer to the `main.typ` file)
+
+
+<!-- * **Bridge to data:** -->
+<!--   Add a short *"From theory to measurement"* paragraph explaining **how the concepts in the literature translate into variables** the Hackers are identifying (e.g., like/dislike items -> affective distance). -->
 
