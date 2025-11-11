@@ -19,7 +19,7 @@ Mental Model for Reviewers.
 ### Working with Data
 
 - Let's load Notebook \#01 into VS Code: 
-    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/data-analysis-codespace/tree/main/notebooks)
+    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
 
 
 ## For next time
