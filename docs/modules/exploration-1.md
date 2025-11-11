@@ -1,25 +1,42 @@
-# Introduction to Data Exploration
+# Data Exploration I
 
-## Agenda
-- [ ] Last Time
-- [ ] Exploratory Data Analysis
-    - Loading Data with Pandas
-    - Selecting, Summarising and Visualising Variables
-    - Live Demo - Continuous & Discrete Variables
-- [ ] Miscellaneous
+## Collaborative paper discussion
 
-## Notebook
-- [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
 
-## Misc
-- Student Representative
-- [ANES 2020](https://sda.berkeley.edu/sdaweb/docs/nes2020full/DOC/hcbk.htm)
+![Mental Model for Reviewers](https://images.squarespace-cdn.com/content/v1/55f73529e4b0e5bde7f43a66/1529065898666-ZTYIPZ3Y5PSV0DUZRU90/like+wish+wonder.png){width=66%}
+/// caption
+Mental Model for Reviewers.
+///
+
+
+## The Data Science Pipeline & Hacker's Demo
+![Variables](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
+
+
+## Hack-time
+!!! tip inline end
+    To load and use a notebook in VS Code follow the steps 3 to 5 in [📘 Notebooks in VS Code](../resources/notebook-vscode.md)
+### Working with Data
+
+- The coding quest continues. Open the notebook of the day in VS Code:
+    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
+
 
 ## For next time
-- :fontawesome-solid-laptop-house: Recommended Practice
-    - [:fontawesome-solid-file-code: Introduction to Data Exploration](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/04-data-exploration-columns.ipynb)
-- :fontawesome-solid-chalkboard-teacher: Live Demo
-    - [:fontawesome-regular-calendar-check: Book an appointment](https://calendly.com/mickaeltemporao/one-on-one) with the instructor.
-    - Prepare a handout using the [:fontawesome-solid-file-code: template](https://colab.research.google.com/github/mickaeltemporao/ids-materials/blob/main/handout-template.ipynb) and share it before the class meeting!
-    - Prepare a 10 minutes live demo.
 
+**:fontawesome-solid-pen-nib: Writers**
+
+- Add title, abstract, and add context before state of the art.
+- Integrate with scientific-paper-starter
+
+**:fontawesome-solid-laptop-code: Hackers**
+
+- How to summarise quantities of interest (QOI) value_counts method.
+- How to create basic visualisation using pandas/matplotlib (more advanced later)
+
+**:fontawesome-solid-magnifying-glass: Reviewers**
+
+- Prep a 5 minute current paper presentation (main file).
+
+<!-- * **Bridge to data:** -->
+<!--   Add a short *"From theory to measurement"* paragraph explaining **how the concepts in the literature translate into variables** the Hackers are identifying (e.g., like/dislike items -> affective distance). -->
