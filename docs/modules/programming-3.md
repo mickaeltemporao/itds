@@ -29,7 +29,7 @@ Mental Model for Reviewers.
     - Multi-party AP literature (e.g., Knudsen; Reiljan; Torcal; Wagner...)?
     - France-specific ?
 - Propose 1-3 tentative titles
-- 5-10-minute Writers overview
+- a 5-minute Writers overview
 
 **:fontawesome-solid-laptop-code: Hackers**
 
@@ -37,7 +37,7 @@ Mental Model for Reviewers.
     - Install and load the `pandas` package (Google it)
     - Ingests a `.csv` file of the latest CSES or the latest ESS dataset
     - Identifies candidate AP variables (eg. available like-dislike variables)
-- 5-10-minute Hackers demo
+- a 5-minute Hackers demo
 
 **:fontawesome-solid-magnifying-glass: Reviewers**
 
