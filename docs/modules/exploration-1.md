@@ -28,14 +28,31 @@ Mental Model for Reviewers.
 
 ## For next time
 
+For everyone!
+Remember 
+    - you can ask me for help on WH
+    - you can all work on each of these task together
+    - 1 groups presents each section
+    - Don't wait until you're the hackers to write code 
+
+
 **:fontawesome-solid-pen-nib: Writers**
 
+Don't talk about structure or what you did. We want to discuss the paper. What is it about, what are the current
+problemts how we are going to fix them.
+
+- Integrate scientific-paper-starter
 - Add title, abstract, and add context before state of the art.
-- Integrate with scientific-paper-starter
+- Fix all citations!!!
 
 **:fontawesome-solid-laptop-code: Hackers**
 
-- How to summarise quantities of interest (QOI) value_counts method.
+- Building up on previous week's notebook, 
+- include SES variables
+- Produce summaries of quantities of interest (QOI) using
+    - value_counts, 
+    - mean, ... methods
+    You should take inspiration from previous existing papers.
 - How to create basic visualisation using pandas/matplotlib (more advanced later)
 
 **:fontawesome-solid-magnifying-glass: Reviewers**
