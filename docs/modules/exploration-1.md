@@ -12,6 +12,8 @@ Mental Model for Reviewers.
 ## The Data Science Pipeline & Hacker's Demo
 ![Variables](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
 
+## Link to demo notebooks
+![Variables](https://mickaeltemporao.github.io/itds/materials/hackers_notebook.ipynb)
 
 ## Hack-time
 !!! tip inline end
