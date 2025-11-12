@@ -13,7 +13,9 @@ Mental Model for Reviewers.
 ![Variables](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
 
 ### Link to demo notebooks
-- [How to subset DataFrames](https://mickaeltemporao.github.io/itds/materials/subset_dataframes.ipynb)
+- [How to subset DataFrames](https://github.com/mickaeltemporao/itds/tree/main/materials/subset_dataframes.ipynb)
+
+
 
 ## Hack-time
 !!! tip inline end
