@@ -84,7 +84,7 @@ A figure has been integrated into the `main.typ`, but if you include a figure in
 
 **Going the extra mile (Optional):**
 
-Can you create simple figure of the distribution of ideology using the `pandas` plotting function?
+Can you create a simple figure of the distribution of ideology using the `pandas` plotting function?
 
 - See [pandas.DataFrame.plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html).
 - Tip: you will have to install matplotlib `!pip install matplotlib`
