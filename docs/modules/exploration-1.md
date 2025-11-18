@@ -10,7 +10,7 @@ Mental Model for Reviewers.
 
 
 ## The Data Science Pipeline & Hacker's Demo
-![Variables](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
+![Data Science](https://mickaeltemporao.github.io/data-analysis/images/ds-pipeline.svg)
 
 
 ## Hack-time
@@ -19,8 +19,10 @@ Mental Model for Reviewers.
 ### Working with Data
 
 - The coding quest continues. Open the notebook of the day in VS Code:
-    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
-    - [Notebook - Subsetting DataFrames](https://github.com/mickaeltemporao/itds/tree/main/materials/subset_dataframes.ipynb)
+
+    - [:fontawesome-solid-folder: **Notebook Repository**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
+
+        - [:fontawesome-solid-file-code: **Subsetting DataFrames** (student's notebok)](https://github.com/mickaeltemporao/materials/tree/main/paper-spsc-2026/notebooks/subset_dataframes.ipynb)
 
 
 ## For next time

@@ -19,7 +19,7 @@ Mental Model for Reviewers.
 ### Working with Data
 
 - Let's load Notebook \#01 into VS Code: 
-    - [:fontawesome-solid-file-code: **Notebooks**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
+    - [:fontawesome-solid-folder: **Notebook Repository**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
 
 
 ## For next time
@@ -73,6 +73,3 @@ Mental Model for Reviewers.
 - **Going the Extra Mile (Optional):**
 
     - Assist Writers & Hackers with integrating feedback received during class!
-
-<!-- * **Bridge to data:** -->
-<!--   Add a short *"From theory to measurement"* paragraph explaining **how the concepts in the literature translate into variables** the Hackers are identifying (e.g., like/dislike items -> affective distance). -->
