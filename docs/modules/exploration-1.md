@@ -31,16 +31,16 @@ Everyone, remember:
 
 - you can and should all work on each of these tasks together.
 
-- don’t wait until you’re the hackers to practise code, nor until you’re the writers to get involved in writing, nor until you’re the reviewers to give feedback. You should all be involved at every stage.
+- don't wait until you're the hackers to practise code, nor until you're the writers to get involved in writing, nor until you're the reviewers to give feedback. You should all be involved at every stage.
 
-Writing a scientific paper is not easy. It takes a lot of self-discipline and good communication to make it work. You have been making lots of progress and I’m confident you’ll manage it!
+Writing a scientific paper is not easy. It takes a lot of self-discipline and good communication to make it work. You have been making lots of progress and I'm confident you'll manage it!
 
 
 ### **:fontawesome-solid-pen-nib: Writers**
 
 - Integrate your `main.typ` file with the [starter-journal-article](https://typst.app/universe/package/starter-journal-article/).
-    - I’ve integrated some initial code into the `main.typ` file already. You need to update the template.
-    - Don’t do this alone or only among the writers. Keep the others involved and explain to the reviewers and hackers how they can use a template.
+    - I've integrated some initial code into the `main.typ` file already. You need to update the template.
+    - Don't do this alone or only among the writers. Keep the others involved and explain to the reviewers and hackers how they can use a template.
 - Add a title and a short abstract (fewer than 250 words) using the template placeholder.
     - In the abstract you need to answer 5 questions:
         - What are you doing?
@@ -57,7 +57,7 @@ Writing a scientific paper is not easy. It takes a lot of self-discipline and go
 
 - Updated `main.typ` and compiled PDF shared in the General Chat with the group.
 - A **5-minute overall presentation** walking through the current version of the paper in the `main.typ` file.
-    - Don’t talk about the structure (this is for the reviewers) or what you did in a specific part. We want to discuss the paper itself. What is it about? What are the current problems? How are we going to fix them?
+    - Don't talk about the structure (this is for the reviewers) or what you did in a specific part. We want to discuss the paper itself. What is it about? What are the current problems? How are we going to fix them?
 
 **Going the extra mile (Optional):**
 
@@ -73,13 +73,13 @@ A figure has been integrated into the `main.typ`, but if you include a figure in
 - Create a notebook to explore relevant variables.
 - Produce an `.ipynb` file that generates descriptive statistics for the quantities of interest (QOIs).
     - You will mostly use `df['some_variable'].value_counts()`.
-    - Start with some of the variables listed by this week’s hackers notebook:
+    - Start with some of the variables listed by this week's hackers notebook:
     ```python
     variables = ["cntry", "prtdgcl", "clsprty", "lrscale", "prtclffr"]
     ```
     - Integrate other relevant SES variables (e.g. age, sex, education, etc.).
         - You can/should also take inspiration from previously published scientific papers.
-- You should build your notebook starting from last week’s notebook:
+- You should build your notebook starting from last week's notebook:
     - [Notebook - Subsetting DataFrames](https://github.com/mickaeltemporao/itds/tree/main/materials/subset_dataframes.ipynb)
 
 **Going the extra mile (Optional):**
