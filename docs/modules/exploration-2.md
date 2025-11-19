@@ -19,7 +19,7 @@ Mental Model for Reviewers.
 
 - Open the notebook of the day in VS Code:
     - [:fontawesome-solid-folder: **Notebook Repository**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
-        - [:fontawesome-solid-file-code: **Subsetting DataFrames** (student's notebok)](https://github.com/mickaeltemporao/materials/tree/main/notebooks/students/2025-2026/subset_dataframes.ipynb)
+        - [:fontawesome-solid-file-code: **Subsetting DataFrames** (student's notebok)](https://github.com/mickaeltemporao/materials/tree/main/students/2025-2026/subset_dataframes.ipynb)
 
 
 ## For next time 
