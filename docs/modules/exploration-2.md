@@ -22,19 +22,21 @@ Mental Model for Reviewers.
         - [:fontawesome-solid-file-code: **Subsetting DataFrames** (student's notebok)](https://github.com/mickaeltemporao/materials/tree/main/notebooks/students/2025-2026/subset_dataframes.ipynb)
 
 
-## For next time [WIP]
+## For next time 
 
-### **:fontawesome-solid-pen-nib: Writers**
+- Notebooks 2 (Logical Operators, ...) & 3
+
+<!-- ### **:fontawesome-solid-pen-nib: Writers** -->
 
 <!-- Add a short *"From theory to measurement"* paragraph explaining **how the concepts in the literature translate into variables** the Hackers are identifying (e.g., like/dislike items). -->
 
-Draft an initial paragraph about descriptive statistics summarising key findings from the Hackers' summary statistics.
+<!-- Draft an initial paragraph about descriptive statistics summarising key findings from the Hackers' summary statistics. -->
 
-### **:fontawesome-solid-laptop-code: Hackers**
+<!-- ### **:fontawesome-solid-laptop-code: Hackers** -->
 
-Expand the notebook to produce visualisations and tables that illustrate patterns of affective polarisation and prepare them for inclusion in the paper.
+<!-- Expand the notebook to produce visualisations and tables that illustrate patterns of affective polarisation and prepare them for inclusion in the paper. -->
 
-### **:fontawesome-solid-magnifying-glass: Reviewers**
+<!-- ### **:fontawesome-solid-magnifying-glass: Reviewers** -->
 
-Check alignment between the introduction and the code sections, identifying inconsistencies, unclear interpretations, or missing connections.
+<!-- Check alignment between the introduction and the code sections, identifying inconsistencies, unclear interpretations, or missing connections. -->
 
