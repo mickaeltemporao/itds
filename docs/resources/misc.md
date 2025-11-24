@@ -3,6 +3,7 @@
 All the materials required for this course are free and will shared with the students. For those who would like to add more colour to the concepts introduced in this course here are some indicative readings that can be useful but not required for the course. Some of those are also free and accessible online.
 
 ## Misc
+- [Mind Maps (thanks to Bruno)](https://excalidraw.com/)
 - [NotebookLM](https://notebooklm.google/)
 - [Research Rabbit](https://www.researchrabbit.ai/)
 
