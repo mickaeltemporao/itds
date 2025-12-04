@@ -22,9 +22,12 @@ Mental Model for Reviewers.
         - [:fontawesome-solid-file-code: **Subsetting DataFrames** (student's notebok)](https://github.com/mickaeltemporao/materials/tree/main/students/2025-2026/subset_dataframes.ipynb)
 
 
-## For next time 
+<!-- Currently at  -->
+<!-- Notebook 3 - Modules & Packages -->
 
-- Notebooks 2 (Logical Operators, ...) & 3
+<!-- ## For next time  -->
+
+
 
 <!-- ### **:fontawesome-solid-pen-nib: Writers** -->
 
