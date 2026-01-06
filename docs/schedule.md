@@ -8,8 +8,7 @@ This schedule is an approximation, subject to change due needs of the students i
     - **Group 2:** ?
 
 #### A Single New Role
-* **:fontawesome-solid-laptop-code: Hackers:** Dedicated in-class coding sessions held every other week. You will apply the previous week's notebooks to the classes' scientific paper project. The goal is to focus exclusively on translating research problems and hypotheses into executable code, and increase your technical autonomy.
-
+* **:fontawesome-solid-laptop-code: Hackers:** In-class coding sessions and application of the material to a scientific research project. The goal is to help you translating hypotheses into executable code and increasing technical autonomy.
 
      | Module                                                                    | :fontawesome-solid-laptop-code: | Milestone  |
      |:-------------------------------------------------------------------------:|:-------------------------------:|:----------:|
