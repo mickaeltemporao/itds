@@ -2,25 +2,39 @@
 
 This schedule is an approximation, subject to change due needs of the students in the course. Students will be informed of changes to the schedule.
 
+## Spring
+!!! info inline end "Groups Info"
+    - **Group 1:** ?
+    - **Group 2:** ?
 
+#### A Single New Role
+* **:fontawesome-solid-laptop-code: Hackers:** Dedicated in-class coding sessions held every other week. You will apply the previous week's notebooks to the classes' scientific paper project. The goal is to focus exclusively on translating research problems and hypotheses into executable code, and increase your technical autonomy.
+
+
+     | Module                                                                    | :fontawesome-solid-laptop-code: | Milestone  |
+     |:-------------------------------------------------------------------------:|:-------------------------------:|:----------:|
+     | [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md) | [:fontawesome-brands-github: Repo](https://github.com/mickaeltemporao/paper-spsc-2026)                                |            |
+     | TBD                                                                       |                                 | Preprocess |
+     | TBD                                                                       |                                 | Visualize  |
+     | TBD                                                                       |                                 | Model      |
+
+## Fall
 !!! info inline end "Groups Info"
     - **Group 1:** Manon, Mathis, Morgane, Suzon.
     - **Group 2:** Baptiste, Bruno, Iggy, Marion.
     - **Group 3:** Jules, Maïann, Mattin, Samuel. 
 
-## Labels
+### Labels
 - **:fontawesome-solid-book-open: Class:** Indicates that there is a class meeting on this day. Contains a link to the materials.
 - **:fontawesome-solid-award: Milestone:** Marks a key target or achievement the class is expected to reach by that point..
 - **:fontawesome-solid-file-code: Final Project:** Final project due date (S2 TBD).
 
-### Roles
+#### Roles
 Each week, students work in groups of four within one of the three rotating groups.
 
 * **:fontawesome-solid-pen-nib: Writers:** Draft and revise paper sections; present their draft in class; incorporate feedback from peers.  
 * **:fontawesome-solid-laptop-code: Hackers:** Prepare demo notebooks or scripts showing the data and methods behind the paper section; deliver a concise in-class demo; refine work based on feedback.  
 * **:fontawesome-solid-magnifying-glass: Reviewers:** Read drafts and demos before class; provide structured, constructive feedback during the session; record comments in the shared review document.  
-
-
 
 
 | Module                                                                                | :fontawesome-solid-pen-nib: | :fontawesome-solid-laptop-code: | :fontawesome-solid-magnifying-glass: | Milestone                                                                   |
@@ -36,12 +50,12 @@ Each week, students work in groups of four within one of the three rotating grou
 | [**:fontawesome-solid-book-open: Data Exploration II**](modules/exploration-2.md)     |                             |                                 |                                      | **:fontawesome-solid-award: Exploration**                                   |
 
 
-## Tentative Roadmap
-- Sessions 1–4: Foundations & Research Design
-- Sessions 5–8: Data Collection & Literature Review
-- Sessions 9–12: Measurement & First Analyses
-- Sessions 13–16: Analysis, Results & Revision
-- Sessions 17–20: Writing & Revision more revision 
+<!-- ## Tentative Roadmap -->
+<!-- - Sessions 1–4: Foundations & Research Design -->
+<!-- - Sessions 5–8: Data Collection & Literature Review -->
+<!-- - Sessions 9–12: Measurement & First Analyses -->
+<!-- - Sessions 13–16: Analysis, Results & Revision -->
+<!-- - Sessions 17–20: Writing & Revision more revision  -->
 
 <!-- | Date       | Module                              | Demo                                                      | Deadline                                                                                                                                   | -->
 <!-- | :-:        | :-:                                 | :-:                                                       | :-:                                                                                                                                        | -->
@@ -56,6 +70,3 @@ Each week, students work in groups of four within one of the three rotating grou
 <!-- |  | [](modules/exploration-2.md) Exploring Variable Relationships      | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
 <!-- |  | [](modules/management-1.md) Recoding Existing Values               | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
 <!-- |  | [](modules/management-2.md) Dealing with Missing Values            | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-
-
-
