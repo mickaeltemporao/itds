@@ -4,8 +4,8 @@ This schedule is an approximation, subject to change due needs of the students i
 
 ## Spring
 !!! info inline end "Groups Info"
-    - **Group 1:** ?
-    - **Group 2:** ?
+    - **Group 1:** Jules, Maïann, Mattin, Samuel, Manon
+    - **Group 2:** Baptiste, Bruno, Iggy, Marion, Mathis
 
 #### A Single New Role
 * **:fontawesome-solid-laptop-code: Hackers:** In-class coding sessions and application of the material to a scientific research project. The goal is to help you translating hypotheses into executable code and increasing technical autonomy.
