@@ -25,3 +25,4 @@ A Github repository was created during the Fall. We will consolidate our code th
 - Open the notebook of the day in VS Code:
     - [:fontawesome-solid-folder: **Notebook Repository**](https://github.com/mickaeltemporao/materials/tree/main/notebooks)
 
+<!-- We stoped at Module 4 ## Useful Methods -->
