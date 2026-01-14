@@ -20,8 +20,6 @@ By the end of the module, you will be equipped to prepare and explore political 
 ### TLDR;
 Many modeling errors in political science or any data-related task arise not from sophisticated algorithms, but from an inadequate understanding of the underlying data.
 
-any other kind of research stem not from advanced techniques, but from poor understanding of the underlying data. 
-
 #### Common pitfalls to avoid
 - Interpreting results without checking missing data
 - Assuming variables are coded intuitively
