@@ -13,6 +13,7 @@ This schedule is an approximation, subject to change due needs of the students i
      | Module                                                                    | :fontawesome-solid-laptop-code: | Milestone  |
      |:-------------------------------------------------------------------------:|:-------------------------------:|:----------:|
      | [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md) | [:fontawesome-brands-github: Repo](https://github.com/mickaeltemporao/paper-spsc-2026)                                |            |
+     | [**:fontawesome-solid-book-open: Getting to Know Your Data I**](modules/exploration-3.md) | [:fontawesome-brands-github: Repo](https://github.com/mickaeltemporao/paper-spsc-2026)                                |            |
      | TBD                                                                       |                                 | Preprocess |
      | TBD                                                                       |                                 | Visualize  |
      | TBD                                                                       |                                 | Model      |
