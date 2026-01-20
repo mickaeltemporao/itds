@@ -27,10 +27,9 @@ Many modeling errors in political science or any data-related task arise not fro
 - Ignoring outliers and implausible values
 
 
-
 ## Hack Time
 
-During hack time, we will continue working from on **Notebooks 4 & 5**. 
+We will work on **Notebooks 4** during this hack time. 
 
 !!! tip inline end
     To load and use a notebook in VS Code, follow steps 3 to 5 in
@@ -38,8 +37,6 @@ During hack time, we will continue working from on **Notebooks 4 & 5**.
 
 - Focus on *understanding what each operation does to the data*, not just on producing output. Ask yourself:
     - **What changed, and why?**
-
-
 
 ### ANES 2020 Codebook
 
