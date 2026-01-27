@@ -15,6 +15,7 @@ This schedule is an approximation, subject to change due needs of the students i
  | [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md)                 |                                                                                        |            |
  | [**:fontawesome-solid-book-open: Getting to Know Your Data I**](modules/exploration-3.md) |                                                                                        |            |
  | Data Acquisition: Lab                                                                     | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) |            |
+ | [**:fontawesome-solid-book-open: Getting to Know Your Data II**](modules/exploration-4.md) |                                                                                        |            |
  | TBD                                                                                       |                                                                                        | Preprocess |
  | TBD                                                                                       |                                                                                        | Visualize  |
  | TBD                                                                                       |                                                                                        | Model      |
