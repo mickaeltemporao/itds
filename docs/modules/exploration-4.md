@@ -1,6 +1,6 @@
 # Getting to Know Your Data II
 
-## Overview
+## Overview (Columns)
 
 This module introduces the foundational skills of data exploration, cleaning, and visualization for political science research. You will learn how to inspect datasets, identify patterns, handle missing or inconsistent values, and produce simple visual summaries.
 
@@ -18,6 +18,7 @@ By the end of the module, you will be equipped to prepare and explore political 
 
 
 ### TLDR;
+
 Many modeling errors in political science or any data-related task arise not from sophisticated algorithms, but from an inadequate understanding of the underlying data.
 
 #### Common pitfalls to avoid
@@ -27,10 +28,11 @@ Many modeling errors in political science or any data-related task arise not fro
 - Ignoring outliers and implausible values
 
 
-
 ## Hack Time
 
-During hack time, we will work from on **Notebooks 5**. 
+1. [Data Acquisition Lab :fontawesome-brands-github: **Codebase** Review](https://github.com/mickaeltemporao/paper-spsc-2026)
+
+2. We will work on subsetting observations using **Notebooks 5**. 
 
 !!! tip inline end
     To load and use a notebook in VS Code, follow steps 3 to 5 in
@@ -38,8 +40,6 @@ During hack time, we will work from on **Notebooks 5**.
 
 - Focus on *understanding what each operation does to the data*, not just on producing output. Ask yourself:
     - **What changed, and why?**
-
-
 
 ### ANES 2020 Codebook
 
