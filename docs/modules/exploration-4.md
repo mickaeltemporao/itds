@@ -1,6 +1,6 @@
 # Getting to Know Your Data II
 
-## Overview (Columns)
+## Overview (Rows)
 
 This module introduces the foundational skills of data exploration, cleaning, and visualization for political science research. You will learn how to inspect datasets, identify patterns, handle missing or inconsistent values, and produce simple visual summaries.
 
@@ -30,8 +30,7 @@ Many modeling errors in political science or any data-related task arise not fro
 
 ## Hack Time
 
-1. [Data Acquisition Lab :fontawesome-brands-github: **Codebase** Review](https://github.com/mickaeltemporao/paper-spsc-2026)
-
+1. [Data Acquisition Lab :fontawesome-brands-github: Codebase **Review**](https://github.com/mickaeltemporao/paper-spsc-2026)
 2. We will work on subsetting observations using **Notebooks 5**. 
 
 !!! tip inline end
