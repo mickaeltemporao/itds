@@ -14,12 +14,13 @@ This schedule is an approximation, subject to change due needs of the students i
 |:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------:|
 | [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md)                  |                                                                                                |            |
 | [**:fontawesome-solid-book-open: Getting to Know Your Data I**](modules/exploration-3.md)  |                                                                                                |            |
-| Data Acquisition: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) |            |
+| Data Acquisition: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Acquire    |
 | [**:fontawesome-solid-book-open: Getting to Know Your Data II**](modules/exploration-4.md) |                                                                                                |            |
 | Data Preparation: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Preprocess |
-| TBD                                                                                        |                                                                                                |            |
+| models?                                                           |                                                                                                |            |
 | TBD                                                                                        |                                                                                                | Model      |
-| TBD                                                                                        |                                                                                                | Viz        |
+| ...                                                                                        |                                                                                                |            |
+| ...                                                                                        |                                                                                                | Communicate |
 
 ## Fall
 !!! info inline end "Groups Info"
@@ -52,24 +53,3 @@ Each week, students work in groups of four within one of the three rotating grou
 | [**:fontawesome-solid-book-open: Data Exploration I**](modules/exploration-1.md)      |                             |                                 |                                      |                                                                             |
 | [**:fontawesome-solid-book-open: Data Exploration II**](modules/exploration-2.md)     |                             |                                 |                                      | **:fontawesome-solid-award: Exploration**                                   |
 
-
-<!-- ## Tentative Roadmap -->
-<!-- - Sessions 1–4: Foundations & Research Design -->
-<!-- - Sessions 5–8: Data Collection & Literature Review -->
-<!-- - Sessions 9–12: Measurement & First Analyses -->
-<!-- - Sessions 13–16: Analysis, Results & Revision -->
-<!-- - Sessions 17–20: Writing & Revision more revision  -->
-
-<!-- | Date       | Module                              | Demo                                                      | Deadline                                                                                                                                   | -->
-<!-- | :-:        | :-:                                 | :-:                                                       | :-:                                                                                                                                        | -->
-<!-- |  | [](modules/introduction.md) Introduction                           |                                                           |                                                                                                                                            | -->
-<!-- |  | [](modules/tools.md) Science, Code, & Writing                                         |                                                           | [**:fontawesome-regular-paper-plane: Onboarding**](resources/onboarding.md)                                                      | -->
-<!-- |  | [](modules/programming-1.md) Science, Code, and Voter Turnout      | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C1**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-1.ipynb) | -->
-<!-- |  | [](modules/programming-1.md) Science, Code, and Voter Turnout      | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C1**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-1.ipynb) | -->
-<!-- |  | [](modules/programming-2.md) A Respondent's Survey Data            | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-<!-- |  | [](modules/programming-3.md) From Concepts to Code                 | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-<!-- |  | [](modules/programming-4.md) Introduction to Data Visualisation    | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-<!-- |  | [](modules/exploration-1.md) Exploring Single Variables            | [:octicons-mortar-board-24:](activities/participation.md) | [**:fontawesome-solid-chess: - C2**](https://colab.research.google.com/github/mickaeltemporao/itds/blob/main/materials/assignment-2.ipynb) | -->
-<!-- |  | [](modules/exploration-2.md) Exploring Variable Relationships      | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-<!-- |  | [](modules/management-1.md) Recoding Existing Values               | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
-<!-- |  | [](modules/management-2.md) Dealing with Missing Values            | [:octicons-mortar-board-24:](activities/participation.md) |                                                                                                                                            | -->
