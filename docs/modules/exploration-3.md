@@ -30,7 +30,7 @@ Many modeling errors in political science or any data-related task arise not fro
 
 ## Hack Time
 
-During hack time, we will work from on **Notebooks 4**. 
+During hack time, we will continue working from on **Notebooks 4 & 5**. 
 
 !!! tip inline end
     To load and use a notebook in VS Code, follow steps 3 to 5 in
