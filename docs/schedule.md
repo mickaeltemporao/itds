@@ -17,7 +17,7 @@ This schedule is an approximation, subject to change due needs of the students i
 | Data Acquisition: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Acquire     |
 | [**:fontawesome-solid-book-open: Getting to Know Your Data II**](modules/exploration-4.md) |                                                                                                |             |
 | Data Preparation: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Preprocess  |
-| [**:fontawesome-solid-book-open: Building Models From Data**](modules/modeling.md)                                                                                                |             |
+| [**:fontawesome-solid-book-open: Building Models From Data**](modules/modeling-1.md)                                                                                                |             |
 | ...                                                                                        |                                                                                                | Model       |
 | ...                                                                                        |                                                                                                |             |
 | ...                                                                                        |                                                                                                | Communicate |
