@@ -71,19 +71,14 @@ nav:
       - modules/spring-intro.md
       - modules/exploration-3.md
       - modules/exploration-4.md
-      # - modules/management-1.md
+      - modules/modeling-1.md
+      # - modules/modeling-2.md
+      # - modules/modeling-3.md
+      # - modules/modeling-4.md
+      # - modules/modeling-summary.md
       # - modules/management-2.md
       # - modules/management-3.md
-      # - modules/causality.md
-      # - modules/sampling.md
-      # - modules/measurement.md
-      # - modules/replication.md
       # - modules/programming.md
-      # - modules/statistics.md
-      # - modules/variables.md
-      # - modules/hypothesis.md
-      # - modules/analysis.md
-      # - modules/communication.md
   - Resources:
     - resources/onboarding.md
     - resources/coding.md

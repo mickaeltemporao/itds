@@ -10,16 +10,16 @@ This schedule is an approximation, subject to change due needs of the students i
 #### A Single New Role
 * **:fontawesome-solid-laptop-code: Hackers:** In-class coding sessions and application of the material to a scientific research project. The goal is to help you translating hypotheses into executable code and increasing technical autonomy.
 
-| Module                                                                                     | :fontawesome-solid-laptop-code:                                                                | Milestone  |
-|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------:|
-| [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md)                  |                                                                                                |            |
-| [**:fontawesome-solid-book-open: Getting to Know Your Data I**](modules/exploration-3.md)  |                                                                                                |            |
-| Data Acquisition: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Acquire    |
-| [**:fontawesome-solid-book-open: Getting to Know Your Data II**](modules/exploration-4.md) |                                                                                                |            |
-| Data Preparation: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Preprocess |
-| models?                                                           |                                                                                                |            |
-| TBD                                                                                        |                                                                                                | Model      |
-| ...                                                                                        |                                                                                                |            |
+| Module                                                                                     | :fontawesome-solid-laptop-code:                                                                | Milestone   |
+|:------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------: |
+| [**:fontawesome-solid-book-open: What's Next?**](modules/spring-intro.md)                  |                                                                                                |             |
+| [**:fontawesome-solid-book-open: Getting to Know Your Data I**](modules/exploration-3.md)  |                                                                                                |             |
+| Data Acquisition: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Acquire     |
+| [**:fontawesome-solid-book-open: Getting to Know Your Data II**](modules/exploration-4.md) |                                                                                                |             |
+| Data Preparation: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Preprocess  |
+| [**:fontawesome-solid-book-open: Building Models From Data**](modules/modeling.md)                                                                                                |             |
+| ...                                                                                        |                                                                                                | Model       |
+| ...                                                                                        |                                                                                                |             |
 | ...                                                                                        |                                                                                                | Communicate |
 
 ## Fall
