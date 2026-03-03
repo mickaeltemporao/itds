@@ -108,9 +108,10 @@ During hack time, we will work from **Notebook 7**.
     To load and use a notebook in VS Code, follow steps 3 to 5 in
     [📘 Notebooks in VS Code](../resources/notebook-vscode.md)
 
-- Focus on *understanding how each predictor (IVs) helps understanding the outcome (DV)* you are trying to explain. Ask yourself:
-    - How does this variable improve our ability to explain our outcome (DV) ?
-    - Does it reveal patterns or relationships that were hidden before?
+- Focus on *understanding how each IV (predictors) is related to the DV (outcome) *. Ask yourself:
+    - How does each variable help me explain the outcome (DV)?
+    - What is the causal mechanism behind it? 
+    - What is the hypothetical direction of the effect (+/-)?
 
 ---
 
