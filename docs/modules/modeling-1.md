@@ -62,11 +62,9 @@ Even without code, practice **conceptual modeling**:
 #### Code to reproduce the figure
 
 ```python
-# pip install "altair[all]"
+# !pip install "altair[all]"
 import altair as alt
 import pandas as pd
-
-alt.renderers.enable("browser")
 
 df = pd.DataFrame(
     {
