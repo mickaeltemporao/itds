@@ -19,8 +19,8 @@ This schedule is an approximation, subject to change due needs of the students i
 | Data Preparation: Lab                                                                      | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Preprocess  |
 | [**:fontawesome-solid-book-open: Building Models From Data**](modules/modeling-1.md)       |                                                                                                |             |
 | Data Modeling: Lab                                                                         | [:fontawesome-brands-github: **Codebase**](https://github.com/mickaeltemporao/paper-spsc-2026) | Model       |
-| ...                                                                                        |                                                                                                |             |
-| ...                                                                                        |                                                                                                | Communicate |
+| Lab Review & Next Steps                                                                                        |                                                                                                |             |
+<!-- | ...                                                                                        |                                                                                                | Communicate | -->
 
 ## Fall
 !!! info inline end "Groups Info"
